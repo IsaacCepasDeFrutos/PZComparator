@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Comparador</title>
+    <link rel="stylesheet" href="estilo.css">
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.8.0/chart.min.js"></script>
+</head>
+<body>
+    <div id="comparacion"></div>
+    <center><div class="btn_pri"><a href="#" onclick="window.print();return false"><h3>IMPRIMIR</h3></a></div></center>
+    <script>
+
+window.addEventListener('DOMContentLoaded', function(){
+        // Función para obtener el valor del parámetro de consulta 'array' de la URL
+    function obtenerArrayDeURL() {
+        // Obtener la cadena de consulta de la URL actual
+        let queryString = window.location.search;
+        
+        // Obtener los parámetros de la cadena de consulta
+        let parametros = new URLSearchParams(queryString);
+        
+        // Obtener el valor del parámetro 'array'
+        let arrayString = parametros.get('array');
+        
+        // Convertir la cadena JSON de array de nuevo a un array JavaScript
+        let array = JSON.parse(arrayString);
+        
+        return array;
+    }
+
+    // Obtener el array de la URL
+    let arrayObtenido = obtenerArrayDeURL();
+
+    // Obtener el elemento HTML donde mostrar el array
+    let comparacion = document.getElementById('comparacion');
+
+    // Construir una cadena con los elementos del array
+    let cadena = '';
+
+    let datos_comp = []
+    
+    for (let i = 0; i < arrayObtenido.length; i++) {
+
+    datos_comp[i] = {};
+       datos_comp[i].precio = parseFloat(arrayObtenido[i].precio.replace("Desde ", ""));
+       datos_comp[i].cpu = (parseFloat(arrayObtenido[i].caracteristicas.procesador.frecuencia) * arrayObtenido[i].caracteristicas.procesador.nucleos_procesador);
+       let resSep = arrayObtenido[i].caracteristicas.exhibicion.resolucion_pantalla.split(" x ");
+      datos_comp[i].panta = ((parseInt(resSep[0]) * parseInt(resSep[1]))/1000);
+      datos_comp[i].ram = parseFloat(arrayObtenido[i].caracteristicas.memoria.capacidad);
+
+      if (arrayObtenido[i].caracteristicas.almacenamiento.capacidad.endsWith("TB")) {
+      datos_comp[i].hd = (parseFloat(arrayObtenido[i].caracteristicas.almacenamiento.capacidad)*1000);}else{
+        datos_comp[i].hd = parseFloat(arrayObtenido[i].caracteristicas.almacenamiento.capacidad)
+      }
+        
+        cadena += '<div class="comp_pr"><h2>Ordenador ' + (i+1) +': <u>'+ arrayObtenido[i].nombre +'</u><button value="'+ arrayObtenido[i].nombre +'" id="fav'+[i] +'" class="fav"><img src="heart_2.gif" align="right"></button></h2>'
+        cadena += '<div class="comp_img2"><img src="img_comp/'+ arrayObtenido[i].nombre +'.jpg"></div>'
+        cadena += '<div class="comp_info">';
+        cadena += '<p><strong>Precio:</strong> ' + arrayObtenido[i].precio + '</p>';
+        cadena += '<p><strong>Descripción:</strong> ' + arrayObtenido[i].descripcion + '</p>';
+        cadena += '<p><strong>Pantalla:</strong> ';
+
+if(arrayObtenido[i].caracteristicas.exhibicion.pantalla_tactil){
+    cadena += 'Tactil ';
+}
+
+        cadena +=  arrayObtenido[i].caracteristicas.exhibicion.diagonal_pantalla + ' ' + arrayObtenido[i].caracteristicas.exhibicion.resolucion_pantalla+ '</p>';
+        cadena += '<p><strong>Procesador:</strong> ' + arrayObtenido[i].caracteristicas.procesador.fabricante + ' ' +arrayObtenido[i].caracteristicas.procesador.modelo + ' ' + arrayObtenido[i].caracteristicas.procesador.frecuencia + ' ' + arrayObtenido[i].caracteristicas.procesador.nucleos_procesador +' nucleos</p>';
+        cadena += '<p><strong>RAM:</strong> ' +arrayObtenido[i].caracteristicas.memoria.capacidad + ' ' +arrayObtenido[i].caracteristicas.memoria.velocidad + ' ' +arrayObtenido[i].caracteristicas.memoria.tipo +'</p>'
+        cadena += '<p><strong>Disco duro:</strong> ' + arrayObtenido[i].caracteristicas.almacenamiento.capacidad + ' ' +arrayObtenido[i].caracteristicas.almacenamiento.tipo +'</p>'
+        cadena += '<p><strong>Graficos:</strong> ';
+
+        if(arrayObtenido[i].caracteristicas.graficos.integrados){
+            cadena += 'Integrados</p>';
+            datos_comp[i].gpu = 1;
+        }else{
+            cadena += arrayObtenido[i].caracteristicas.graficos.modelo_discreto + '</p>';
+            if (arrayObtenido[i].caracteristicas.graficos.modelo_discreto.endsWith(" Ti")) {
+    // Elimina los primeros 19 caracteres y los últimos 3 caracteres
+    let modelo = arrayObtenido[i].caracteristicas.graficos.modelo_discreto;
+    let valorGPU = modelo.slice(19, modelo.length - 3);
+    datos_comp[i].gpu = ((parseFloat(valorGPU) + 1)/2);
+} else {
+    // Elimina los primeros 19 caracteres y deja el resto
+    let modelo = arrayObtenido[i].caracteristicas.graficos.modelo_discreto;
+    let valorGPU = modelo.slice(19);
+    datos_comp[i].gpu = (parseFloat(valorGPU)/2);
+}
+
+for (let i = 1; i < datos_comp.length; i++) {
+    if (datos_comp[i].gpu < datos_comp[i-1].gpu) {
+        datos_comp[i].gpu -= 150;
+    } else if (datos_comp[i].gpu > datos_comp[i-1].gpu) {
+        datos_comp[i].gpu += 150;
+    }
+}
+
+        }
+        cadena += '</div></div>';
+        console.log(datos_comp[i])
+    }
+
+if(arrayObtenido.length <= 1){
+    
+    cadena += '<br><h2 class="error1">Tienes que seleccionar 2 o más ordenadores para poder compararlos</h2>'}
+    else{
+
+        cadena += '<div class="caja_gr"><canvas id="grafico"></canvas><div>'
+
+    };
+    comparacion.innerHTML = cadena;
+
+   //boton fav
+for (let i = 0; i < arrayObtenido.length; i++) {
+    let boton = document.getElementById("fav" + i);
+    if (boton) { // Verifica que el botón existe
+        boton.addEventListener('click', function(){
+            let valor = boton.value; // Obtener el valor del botón directamente
+            console.log(valor);
+
+            // Enviar el valor al archivo PHP
+            fetch('dar_fav.php', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/x-www-form-urlencoded'
+                },
+                body: new URLSearchParams({
+                    'valor': valor
+                })
+            })
+            .then(response => response.json())
+            .then(data => {
+                console.log(data.resultado);
+                // Mostrar el resultado en el HTML
+                if (!data.resultado) {
+                    alert(data.mensaje);
+                } else {
+                    alert(data.mensaje);
+                }
+            })
+            .catch(error => console.error('Error:', error));
+        });
+    }
+}
+
+
+    crear_graf(arrayObtenido, datos_comp)
+
+    function normalizarDimensiones(datos, indicesDimensiones, maxValor) {
+    const maxValues = [];
+
+    // Encontrar los valores máximos de las dimensiones específicas
+    indicesDimensiones.forEach(index => {
+        maxValues[index] = Math.max(...datos.map(d => d[index]));
+    });
+
+    // Normalizar las dimensiones específicas
+    return datos.map(row => row.map((val, i) => {
+        if (indicesDimensiones.includes(i)) {
+            return (val / maxValues[i]) * maxValor;
+        } else {
+            return val;
+        }
+    }));
+}
+
+function crear_graf(arrayObtenido, datos_comp) {
+    const etiquetas = ['Precio', 'Pantalla', 'Procesador', 'RAM', 'Disco duro', 'Graficos'];
+
+    const migrafico = document.getElementById("grafico");
+
+    const datasets = [];
+    const coloresBorde = ['red', 'blue', 'green', 'orange', 'purple', 'yellow']; // Define colores para el borde
+    const coloresFondo = ['rgba(255,0,0,0.3)', 'rgba(0,0,255,0.3)', 'rgba(0,255,0,0.3)', 'rgba(255,165,0,0.3)', 'rgba(128,0,128,0.3)', 'rgba(255,255,0,0.3)'];
+
+    // Recolectar los datos en formato adecuado para la normalización
+    const datosParaNormalizar = arrayObtenido.map((elemento, i) => [
+        datos_comp[i].precio, datos_comp[i].panta, datos_comp[i].cpu, datos_comp[i].ram, datos_comp[i].hd, datos_comp[i].gpu
+    ]);
+
+    // Normalizar solo las dimensiones de Procesador (2) y RAM (3)
+    const maxValor = 2000; // Puedes ajustar este valor según tus necesidades
+    const datosNormalizados = normalizarDimensiones(datosParaNormalizar, [1, 2, 3], maxValor);
+
+    datosNormalizados.forEach((elemento, i) => {
+        datasets.push({
+            label: arrayObtenido[i].nombre,
+            data: elemento,
+            borderColor: coloresBorde[i % coloresBorde.length], // Usamos el operador módulo para asegurarnos de no salirnos del rango de colores
+            backgroundColor: coloresFondo[i % coloresFondo.length]
+        });
+    });
+
+    const datos = {
+        labels: etiquetas,
+        datasets: datasets
+    };
+
+    const configuracion = {
+        type: 'radar',
+        data: datos
+    };
+
+    new Chart(migrafico, configuracion);
+}
+
+
+});
+        </script>
+</body>
+</html>

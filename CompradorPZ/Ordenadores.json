@@ -1,0 +1,2422 @@
+{
+    "mejores_ordenadores": [
+
+      {
+        "nombre": "Acer Swift 5",
+        "precio": "Desde 999.99€",
+        "descripcion": "El Acer Swift 5 es un portátil ultradelgado y ligero diseñado para ofrecer portabilidad y rendimiento en un paquete elegante. Con su diseño delgado y sus especificaciones sólidas, es ideal para usuarios que necesitan un portátil para uso diario.",
+        "caracteristicas": {
+          "diseño": {
+            "tipo_producto": "Portátil",
+            "color": "Gris",
+            "factor_forma": "Concha",
+            "posicionamiento_mercado": "Premium",
+            "marca_original": "Acer"
+          },
+          "exhibicion": {
+            "diagonal_pantalla": "14\"",
+            "resolucion_pantalla": "1920 x 1080 Pixeles",
+            "pantalla_tactil": true,
+            "tipo_hd": "Full HD",
+            "tipo_pantalla": "IPS",
+            "relacion_aspecto": "16:9",
+            "pantalla_antirreflectante": true,
+            "brillo_pantalla": "300 cd / m²",
+            "espacio_color_rgb": "sRGB",
+            "gama_colores": "100%"
+          },
+          "procesador": {
+            "fabricante": "Intel",
+            "modelo": "Core i7-1165G7",
+            "memoria_cache": "12 MB",
+            "hilos_ejecucion": 12,
+            "nucleos_procesador": 4,
+            "frecuencia": "2.8 GHz",
+            "frecuencia_max_turbo": "4.7 GHz",
+            "socket": "FCBGA1449",
+            "potencia_disenio_termico": "28 W"
+          },
+          "memoria": {
+            "tipo": "LPDDR4X",
+            "capacidad": "16 GB",
+            "velocidad": "4266 MHz",
+            "ranuras": "N/A",
+            "maxima_ampliable": "N/A"
+          },
+          "almacenamiento": {
+            "tipo": "SSD",
+            "capacidad": "1 TB"
+          },
+          "graficos": {
+            "integrados": true,
+            "modelo_discreto": null
+          },
+          "conexion": {
+            "wifi": "Wi-Fi 6",
+            "bluetooth": true
+          },
+          "peso_dimensiones": {
+            "peso": "Aprox. 1.05 kg",
+            "dimensiones": "Aprox. 318 x 206 x 14.95 mm"
+          }
+        }
+      },
+      {
+        "nombre": "Acer Predator Helios 300",
+        "precio": "Desde 1299.99€",
+        "descripcion": "El Acer Predator Helios 300 es un portátil para juegos de alta gama diseñado para ofrecer un rendimiento excepcional en un formato portátil. Con su potente hardware y su pantalla de alta frecuencia de actualización, es ideal para jugadores que necesitan potencia en movimiento.",
+        "caracteristicas": {
+          "diseño": {
+            "tipo_producto": "Portátil para juegos",
+            "color": "Negro",
+            "factor_forma": "Concha",
+            "posicionamiento_mercado": "Gaming",
+            "marca_original": "Acer"
+          },
+          "exhibicion": {
+            "diagonal_pantalla": "15.6\"",
+            "resolucion_pantalla": "1920 x 1080 Pixeles",
+            "pantalla_tactil": false,
+            "tipo_hd": "Full HD",
+            "tipo_pantalla": "IPS",
+            "relacion_aspecto": "16:9",
+            "pantalla_antirreflectante": true,
+            "brillo_pantalla": "300 cd / m²",
+            "espacio_color_rgb": "sRGB",
+            "gama_colores": "100%"
+          },
+          "procesador": {
+            "fabricante": "Intel",
+            "modelo": "Core i7-11800H",
+            "memoria_cache": "24 MB",
+            "hilos_ejecucion": 16,
+            "nucleos_procesador": 8,
+            "frecuencia": "2.3 GHz",
+            "frecuencia_max_turbo": "4.6 GHz",
+            "socket": "BGA 1449",
+            "potencia_disenio_termico": "45 W"
+          },
+          "memoria": {
+            "tipo": "DDR4",
+            "capacidad": "16 GB",
+            "velocidad": "3200 MHz",
+            "ranuras": "N/A",
+            "maxima_ampliable": "N/A"
+          },
+          "almacenamiento": {
+            "tipo": "SSD",
+            "capacidad": "512 GB"
+          },
+          "graficos": {
+            "integrados": false,
+            "modelo_discreto": "NVIDIA GeForce RTX 3060"
+          },
+          "conexion": {
+            "wifi": "Wi-Fi 6",
+            "bluetooth": true
+          },
+          "peso_dimensiones": {
+            "peso": "Aprox. 2.5 kg",
+            "dimensiones": "Aprox. 363 x 255 x 22.9 mm"
+          }
+        }
+      },
+      {
+        "nombre": "Acer Swift 5",
+        "precio": "Desde 999.99€",
+        "descripcion": "El Acer Swift 5 es un portátil ultradelgado y ligero diseñado para ofrecer portabilidad y rendimiento en un paquete elegante. Con su diseño delgado y sus especificaciones sólidas, es ideal para usuarios que necesitan un portátil para uso diario.",
+        "caracteristicas": {
+          "diseño": {
+            "tipo_producto": "Portátil",
+            "color": "Gris",
+            "factor_forma": "Concha",
+            "posicionamiento_mercado": "Premium",
+            "marca_original": "Acer"
+          },
+          "exhibicion": {
+            "diagonal_pantalla": "14\"",
+            "resolucion_pantalla": "1920 x 1080 Pixeles",
+            "pantalla_tactil": true,
+            "tipo_hd": "Full HD",
+            "tipo_pantalla": "IPS",
+            "relacion_aspecto": "16:9",
+            "pantalla_antirreflectante": true,
+            "brillo_pantalla": "300 cd / m²",
+            "espacio_color_rgb": "sRGB",
+            "gama_colores": "100%"
+          },
+          "procesador": {
+            "fabricante": "Intel",
+            "modelo": "Core i7-1165G7",
+            "memoria_cache": "12 MB",
+            "hilos_ejecucion": 12,
+            "nucleos_procesador": 4,
+            "frecuencia": "2.8 GHz",
+            "frecuencia_max_turbo": "4.7 GHz",
+            "socket": "FCBGA1449",
+            "potencia_disenio_termico": "28 W"
+          },
+          "memoria": {
+            "tipo": "LPDDR4X",
+            "capacidad": "16 GB",
+            "velocidad": "4266 MHz",
+            "ranuras": "N/A",
+            "maxima_ampliable": "N/A"
+          },
+          "almacenamiento": {
+            "tipo": "SSD",
+            "capacidad": "1 TB"
+          },
+          "graficos": {
+            "integrados": true,
+            "modelo_discreto": null
+          },
+          "conexion": {
+            "wifi": "Wi-Fi 6",
+            "bluetooth": true
+          },
+          "peso_dimensiones": {
+            "peso": "Aprox. 1.05 kg",
+            "dimensiones": "Aprox. 318 x 206 x 14.95 mm"
+          }
+        }
+      },
+      {
+        "nombre": "Acer Aspire 5",
+        "precio": "Desde 599.99€",
+        "descripcion": "El Acer Aspire 5 es un portátil versátil diseñado para el uso diario y el trabajo productivo. Con un equilibrio entre rendimiento, portabilidad y precio, es ideal para estudiantes y profesionales que buscan un dispositivo asequible con características sólidas.",
+        "caracteristicas": {
+          "diseño": {
+            "tipo_producto": "Portátil",
+            "color": "Plata",
+            "factor_forma": "Concha",
+            "posicionamiento_mercado": "Mainstream",
+            "marca_original": "Acer"
+          },
+          "exhibicion": {
+            "diagonal_pantalla": "15.6\"",
+            "resolucion_pantalla": "1920 x 1080 Pixeles",
+            "pantalla_tactil": false,
+            "tipo_hd": "Full HD",
+            "tipo_pantalla": "IPS",
+            "relacion_aspecto": "16:9",
+            "pantalla_antirreflectante": true,
+            "brillo_pantalla": "300 cd / m²",
+            "espacio_color_rgb": "sRGB",
+            "gama_colores": "100%"
+          },
+          "procesador": {
+            "fabricante": "Intel",
+            "modelo": "Core i5-1135G7",
+            "memoria_cache": "8 MB",
+            "hilos_ejecucion": 8,
+            "nucleos_procesador": 4,
+            "frecuencia": "2.4 GHz",
+            "frecuencia_max_turbo": "4.2 GHz",
+            "socket": "FCBGA1449",
+            "potencia_disenio_termico": "15 W"
+          },
+          "memoria": {
+            "tipo": "DDR4",
+            "capacidad": "8 GB",
+            "velocidad": "3200 MHz",
+            "ranuras": "1x SO-DIMM",
+            "maxima_ampliable": "Hasta 20 GB"
+          },
+          "almacenamiento": {
+            "tipo": "SSD",
+            "capacidad": "512 GB"
+          },
+          "graficos": {
+            "integrados": true,
+            "modelo_discreto": null
+          },
+          "conexion": {
+            "wifi": "Wi-Fi 6",
+            "bluetooth": true
+          },
+          "peso_dimensiones": {
+            "peso": "Aprox. 1.8 kg",
+            "dimensiones": "Aprox. 363.4 x 250.5 x 17.95 mm"
+          }
+        }
+      },
+      {
+        "nombre": "Lenovo ThinkPad X1 Carbon Gen 10",
+        "precio": "Desde 1599.99€",
+        "descripcion": "El Lenovo ThinkPad X1 Carbon Gen 10 es un portátil empresarial premium diseñado para profesionales que buscan un equilibrio entre rendimiento, portabilidad y durabilidad. Con su diseño delgado y especificaciones de alta gama, es ideal para usuarios exigentes que necesitan un dispositivo confiable para su trabajo diario.",
+        "caracteristicas": {
+          "diseño": {
+            "tipo_producto": "Portátil",
+            "color": "Negro",
+            "factor_forma": "Concha",
+            "posicionamiento_mercado": "Negocios",
+            "marca_original": "Lenovo"
+          },
+          "exhibicion": {
+            "diagonal_pantalla": "14\"",
+            "resolucion_pantalla": "2560 x 1440 Pixeles",
+            "pantalla_tactil": false,
+            "tipo_hd": "2K",
+            "tipo_pantalla": "IPS",
+            "relacion_aspecto": "16:9",
+            "pantalla_antirreflectante": true,
+            "brillo_pantalla": "500 cd / m²",
+            "espacio_color_rgb": "sRGB",
+            "gama_colores": "100%"
+          },
+          "procesador": {
+            "fabricante": "Intel",
+            "modelo": "Core i7-1265U",
+            "memoria_cache": "12 MB",
+            "hilos_ejecucion": 8,
+            "nucleos_procesador": 4,
+            "frecuencia": "2.8 GHz",
+            "frecuencia_max_turbo": "4.7 GHz",
+            "socket": "FCBGA1449",
+            "potencia_disenio_termico": "15 W"
+          },
+          "memoria": {
+            "tipo": "LPDDR4X",
+            "capacidad": "16 GB",
+            "velocidad": "4266 MHz",
+            "ranuras": "N/A",
+            "maxima_ampliable": "N/A"
+          },
+          "almacenamiento": {
+            "tipo": "SSD",
+            "capacidad": "512 GB"
+          },
+          "graficos": {
+            "integrados": true,
+            "modelo_discreto": null
+          },
+          "conexion": {
+            "wifi": "Wi-Fi 6",
+            "bluetooth": true
+          },
+          "peso_dimensiones": {
+            "peso": "Aprox. 1.09 kg",
+            "dimensiones": "Aprox. 314 x 221 x 14.9 mm"
+          }
+        }
+      },
+      {
+        "nombre": "Lenovo ThinkPad X1 Yoga Gen 7",
+        "precio": "Desde 1899.99€",
+        "descripcion": "El Lenovo ThinkPad X1 Yoga Gen 7 es un portátil convertible premium diseñado para profesionales móviles que buscan un dispositivo versátil y potente. Con su diseño elegante y especificaciones de alto rendimiento, es ideal para usuarios exigentes que necesitan un portátil adaptable a diferentes escenarios de uso.",
+        "caracteristicas": {
+          "diseño": {
+            "tipo_producto": "Portátil convertible",
+            "color": "Negro",
+            "factor_forma": "Convertible (carcasa)",
+            "posicionamiento_mercado": "Negocios",
+            "marca_original": "Lenovo"
+          },
+          "exhibicion": {
+            "diagonal_pantalla": "14\"",
+            "resolucion_pantalla": "1920 x 1080 Pixeles",
+            "pantalla_tactil": true,
+            "tipo_hd": "Full HD",
+            "tipo_pantalla": "IPS",
+            "relacion_aspecto": "16:9",
+            "pantalla_antirreflectante": true,
+            "brillo_pantalla": "400 cd / m²",
+            "espacio_color_rgb": "sRGB",
+            "gama_colores": "100%"
+          },
+          "procesador": {
+            "fabricante": "Intel",
+            "modelo": "Core i5-1155G7",
+            "memoria_cache": "8 MB",
+            "hilos_ejecucion": 8,
+            "nucleos_procesador": 4,
+            "frecuencia": "1.3 GHz",
+            "frecuencia_max_turbo": "3.7 GHz",
+            "socket": "FCBGA1449",
+            "potencia_disenio_termico": "15 W"
+          },
+          "memoria": {
+            "tipo": "LPDDR4X",
+            "capacidad": "16 GB",
+            "velocidad": "4266 MHz",
+            "ranuras": "N/A",
+            "maxima_ampliable": "N/A"
+          },
+          "almacenamiento": {
+            "tipo": "SSD",
+            "capacidad": "512 GB"
+          },
+          "graficos": {
+            "integrados": true,
+            "modelo_discreto": null
+          },
+          "conexion": {
+            "wifi": "Wi-Fi 6",
+            "bluetooth": true
+          },
+          "peso_dimensiones": {
+            "peso": "Aprox. 1.39 kg",
+            "dimensiones": "Aprox. 323 x 218 x 15.5 mm"
+          }
+        }
+      },
+      {
+        "nombre": "Lenovo ThinkPad T14 Gen 4",
+        "precio": "Desde 2028.77€",
+        "descripcion": "El Lenovo ThinkPad T14 Gen 4 es un portátil empresarial diseñado para profesionales que buscan rendimiento y durabilidad en un diseño compacto. Con su pantalla de alta resolución y especificaciones de alto rendimiento, es ideal para usuarios exigentes que necesitan un portátil confiable para su trabajo diario.",
+        "caracteristicas": {
+          "diseño": {
+            "tipo_producto": "Portátil",
+            "color": "Negro",
+            "factor_forma": "Concha",
+            "posicionamiento_mercado": "Negocios",
+            "marca_original": "Lenovo"
+          },
+          "exhibicion": {
+            "diagonal_pantalla": "14\"",
+            "resolucion_pantalla": "2560 x 1440 Pixeles",
+            "pantalla_tactil": false,
+            "tipo_hd": "2K",
+            "tipo_pantalla": "IPS",
+            "relacion_aspecto": "16:9",
+            "pantalla_antirreflectante": true,
+            "brillo_pantalla": "500 cd / m²",
+            "espacio_color_rgb": "sRGB",
+            "gama_colores": "100%"
+          },
+          "procesador": {
+            "fabricante": "Intel",
+            "modelo": "Core i7-1355U",
+            "memoria_cache": "12 MB",
+            "hilos_ejecucion": 8,
+            "nucleos_procesador": 4,
+            "frecuencia": "1.8 GHz",
+            "frecuencia_max_turbo": "4.8 GHz",
+            "socket": "FCBGA1449",
+            "potencia_disenio_termico": "15 W"
+          },
+          "memoria": {
+            "tipo": "DDR5",
+            "capacidad": "32 GB",
+            "velocidad": "4800 MHz",
+            "ranuras": "N/A",
+            "maxima_ampliable": "N/A"
+          },
+          "almacenamiento": {
+            "tipo": "SSD",
+            "capacidad": "1 TB"
+          },
+          "graficos": {
+            "integrados": true,
+            "modelo_discreto": null
+          },
+          "conexion": {
+            "wifi": "Wi-Fi 6",
+            "bluetooth": true
+          },
+          "peso_dimensiones": {
+            "peso": "Aprox. 1.48 kg",
+            "dimensiones": "Aprox. 331 x 226 x 16.5 mm"
+          }
+        }
+      },
+      {
+        "nombre": "Lenovo Legion 5 Pro",
+        "precio": "Desde 1499.99€",
+        "descripcion": "El Lenovo Legion 5 Pro es un portátil para juegos de alta gama diseñado para gamers que buscan rendimiento y calidad visual. Con su potente hardware y pantalla de alta frecuencia de actualización, es ideal para aquellos que buscan una experiencia de juego inmersiva y sin compromisos.",
+        "caracteristicas": {
+          "diseño": {
+            "tipo_producto": "Portátil para juegos",
+            "color": "Gris",
+            "factor_forma": "Concha",
+            "posicionamiento_mercado": "Gaming",
+            "marca_original": "Lenovo"
+          },
+          "exhibicion": {
+            "diagonal_pantalla": "16\"",
+            "resolucion_pantalla": "2560 x 1600 Pixeles",
+            "pantalla_tactil": false,
+            "tipo_hd": "2K",
+            "tipo_pantalla": "IPS",
+            "relacion_aspecto": "16:10",
+            "pantalla_antirreflectante": false,
+            "brillo_pantalla": "500 cd / m²",
+            "espacio_color_rgb": "sRGB",
+            "gama_colores": "100%"
+          },
+          "procesador": {
+            "fabricante": "AMD",
+            "modelo": "Ryzen 7 5800H",
+            "memoria_cache": "20 MB",
+            "hilos_ejecucion": 16,
+            "nucleos_procesador": 8,
+            "frecuencia": "3.2 GHz",
+            "frecuencia_max_turbo": "4.4 GHz",
+            "socket": "BGA 2801",
+            "potencia_disenio_termico": "45 W"
+          },
+          "memoria": {
+            "tipo": "DDR4",
+            "capacidad": "16 GB",
+            "velocidad": "3200 MHz",
+            "ranuras": "N/A",
+            "maxima_ampliable": "N/A"
+          },
+          "almacenamiento": {
+            "tipo": "SSD",
+            "capacidad": "1 TB"
+          },
+          "graficos": {
+            "integrados": false,
+            "modelo_discreto": "NVIDIA GeForce RTX 3070"
+          },
+          "conexion": {
+            "wifi": "Wi-Fi 6",
+            "bluetooth": true
+          },
+          "peso_dimensiones": {
+            "peso": "Aprox. 2.45 kg",
+            "dimensiones": "Aprox. 356 x 260 x 23 mm"
+          }
+        }
+      },
+      {
+        "nombre": "Lenovo IdeaPad Flex 5",
+        "precio": "Desde 699.99€",
+        "descripcion": "El Lenovo IdeaPad Flex 5 es un portátil convertible versátil diseñado para usuarios que buscan un equilibrio entre productividad y entretenimiento. Con su diseño flexible y especificaciones adecuadas para tareas diarias, es ideal para estudiantes y profesionales que necesitan un dispositivo adaptable a diferentes escenarios de uso.",
+        "caracteristicas": {
+          "diseño": {
+            "tipo_producto": "Portátil convertible",
+            "color": "Gris",
+            "factor_forma": "Convertible (carcasa)",
+            "posicionamiento_mercado": "Mainstream",
+            "marca_original": "Lenovo"
+          },
+          "exhibicion": {
+            "diagonal_pantalla": "14\"",
+            "resolucion_pantalla": "1920 x 1080 Pixeles",
+            "pantalla_tactil": true,
+            "tipo_hd": "Full HD",
+            "tipo_pantalla": "IPS",
+            "relacion_aspecto": "16:9",
+            "pantalla_antirreflectante": true,
+            "brillo_pantalla": "250 cd / m²",
+            "espacio_color_rgb": "sRGB",
+            "gama_colores": "45%"
+          },
+          "procesador": {
+            "fabricante": "AMD",
+            "modelo": "Ryzen 5 5500U",
+            "memoria_cache": "8 MB",
+            "hilos_ejecucion": 12,
+            "nucleos_procesador": 6,
+            "frecuencia": "2.1 GHz",
+            "frecuencia_max_turbo": "4.0 GHz",
+            "socket": "BGA 1802",
+            "potencia_disenio_termico": "15 W"
+          },
+          "memoria": {
+            "tipo": "DDR4",
+            "capacidad": "8 GB",
+            "velocidad": "3200 MHz",
+            "ranuras": "N/A",
+            "maxima_ampliable": "N/A"
+          },
+          "almacenamiento": {
+            "tipo": "SSD",
+            "capacidad": "256 GB"
+          },
+          "graficos": {
+            "integrados": true,
+            "modelo_discreto": null
+          },
+          "conexion": {
+            "wifi": "Wi-Fi 6",
+            "bluetooth": true
+          },
+          "peso_dimensiones": {
+            "peso": "Aprox. 1.5 kg",
+            "dimensiones": "Aprox. 321 x 217 x 18 mm"
+          }
+        }
+      },
+      {
+        "nombre": "Lenovo Legion 7i",
+        "precio": "Desde 1599.99€",
+        "descripcion": "El Lenovo Legion 7i es un portátil para juegos de alta gama diseñado para gamers exigentes que buscan rendimiento y calidad visual. Con su diseño robusto y especificaciones de alto rendimiento, es ideal para aquellos que buscan una experiencia de juego inmersiva y sin compromisos.",
+        "caracteristicas": {
+          "diseño": {
+            "tipo_producto": "Portátil para juegos",
+            "color": "Negro",
+            "factor_forma": "Concha",
+            "posicionamiento_mercado": "Gaming",
+            "marca_original": "Lenovo"
+          },
+          "exhibicion": {
+            "diagonal_pantalla": "16\"",
+            "resolucion_pantalla": "2560 x 1600 Pixeles",
+            "pantalla_tactil": false,
+            "tipo_hd": "2K",
+            "tipo_pantalla": "IPS",
+            "relacion_aspecto": "16:10",
+            "pantalla_antirreflectante": false,
+            "brillo_pantalla": "500 cd / m²",
+            "espacio_color_rgb": "sRGB",
+            "gama_colores": "100%"
+          },
+          "procesador": {
+            "fabricante": "Intel",
+            "modelo": "Core i7-11800H",
+            "memoria_cache": "24 MB",
+            "hilos_ejecucion": 16,
+            "nucleos_procesador": 8,
+            "frecuencia": "2.3 GHz",
+            "frecuencia_max_turbo": "4.6 GHz",
+            "socket": "BGA 1449",
+            "potencia_disenio_termico": "45 W"
+          },
+          "memoria": {
+            "tipo": "DDR4",
+            "capacidad": "32 GB",
+            "velocidad": "3200 MHz",
+            "ranuras": "N/A",
+            "maxima_ampliable": "N/A"
+          },
+          "almacenamiento": {
+            "tipo": "SSD",
+            "capacidad": "1 TB"
+          },
+          "graficos": {
+            "integrados": false,
+            "modelo_discreto": "NVIDIA GeForce RTX 3080"
+          },
+          "conexion": {
+            "wifi": "Wi-Fi 6E",
+            "bluetooth": true
+          },
+          "peso_dimensiones": {
+            "peso": "Aprox. 2.45 kg",
+            "dimensiones": "Aprox. 359 x 260 x 20 mm"
+          }
+        }
+      },
+      {
+        "nombre": "Lenovo ThinkPad E14 Gen 3",
+        "precio": "Desde 879.99€",
+        "descripcion": "El Lenovo ThinkPad E14 Gen 3 es un portátil empresarial diseñado para profesionales que buscan rendimiento y fiabilidad a un precio asequible. Con su diseño resistente y especificaciones sólidas, es ideal para usuarios que necesitan un dispositivo confiable para su trabajo diario.",
+        "caracteristicas": {
+          "diseño": {
+            "tipo_producto": "Portátil",
+            "color": "Negro",
+            "factor_forma": "Concha",
+            "posicionamiento_mercado": "Negocios",
+            "marca_original": "Lenovo"
+          },
+          "exhibicion": {
+            "diagonal_pantalla": "14\"",
+            "resolucion_pantalla": "1920 x 1080 Pixeles",
+            "pantalla_tactil": false,
+            "tipo_hd": "Full HD",
+            "tipo_pantalla": "IPS",
+            "relacion_aspecto": "16:9",
+            "pantalla_antirreflectante": true,
+            "brillo_pantalla": "250 cd / m²",
+            "espacio_color_rgb": "sRGB",
+            "gama_colores": "45%"
+          },
+          "procesador": {
+            "fabricante": "Intel",
+            "modelo": "Core i5-1135G7",
+            "memoria_cache": "8 MB",
+            "hilos_ejecucion": 8,
+            "nucleos_procesador": 4,
+            "frecuencia": "2.4 GHz",
+            "frecuencia_max_turbo": "4.2 GHz",
+            "socket": "BGA 1449",
+            "potencia_disenio_termico": "15 W"
+          },
+          "memoria": {
+            "tipo": "DDR4",
+            "capacidad": "8 GB",
+            "velocidad": "3200 MHz",
+            "ranuras": "N/A",
+            "maxima_ampliable": "N/A"
+          },
+          "almacenamiento": {
+            "tipo": "SSD",
+            "capacidad": "256 GB"
+          },
+          "graficos": {
+            "integrados": true,
+            "modelo_discreto": null
+          },
+          "conexion": {
+            "wifi": "Wi-Fi 6",
+            "bluetooth": true
+          },
+          "peso_dimensiones": {
+            "peso": "Aprox. 1.6 kg",
+            "dimensiones": "Aprox. 324 x 220 x 17.9 mm"
+          }
+        }
+      },
+      {
+        "nombre": "Lenovo ThinkBook 14p Gen 3",
+        "precio": "Desde 929.99€",
+        "descripcion": "El Lenovo ThinkBook 14p Gen 3 es un portátil empresarial diseñado para profesionales que buscan rendimiento y portabilidad en un diseño elegante. Con su pantalla de alta resolución y especificaciones sólidas, es ideal para usuarios que necesitan un dispositivo confiable para su trabajo diario.",
+        "caracteristicas": {
+          "diseño": {
+            "tipo_producto": "Portátil",
+            "color": "Plata",
+            "factor_forma": "Concha",
+            "posicionamiento_mercado": "Negocios",
+            "marca_original": "Lenovo"
+          },
+          "exhibicion": {
+            "diagonal_pantalla": "14\"",
+            "resolucion_pantalla": "2560 x 1600 Pixeles",
+            "pantalla_tactil": false,
+            "tipo_hd": "2K",
+            "tipo_pantalla": "IPS",
+            "relacion_aspecto": "16:10",
+            "pantalla_antirreflectante": true,
+            "brillo_pantalla": "400 cd / m²",
+            "espacio_color_rgb": "sRGB",
+            "gama_colores": "100%"
+          },
+          "procesador": {
+            "fabricante": "AMD",
+            "modelo": "Ryzen 5 5600U",
+            "memoria_cache": "19 MB",
+            "hilos_ejecucion": 12,
+            "nucleos_procesador": 6,
+            "frecuencia": "2.3 GHz",
+            "frecuencia_max_turbo": "4.2 GHz",
+            "socket": "BGA 1802",
+            "potencia_disenio_termico": "15 W"
+          },
+          "memoria": {
+            "tipo": "DDR4",
+            "capacidad": "16 GB",
+            "velocidad": "3200 MHz",
+            "ranuras": "N/A",
+            "maxima_ampliable": "N/A"
+          },
+          "almacenamiento": {
+            "tipo": "SSD",
+            "capacidad": "512 GB"
+          },
+          "graficos": {
+            "integrados": true,
+            "modelo_discreto": null
+          },
+          "conexion": {
+            "wifi": "Wi-Fi 6",
+            "bluetooth": true
+          },
+          "peso_dimensiones": {
+            "peso": "Aprox. 1.5 kg",
+            "dimensiones": "Aprox. 318 x 216 x 17.9 mm"
+          }
+        }
+      },
+      {
+        "nombre": "Lenovo ThinkPad X13 Gen 3",
+        "precio": "Desde 1049.99€",
+        "descripcion": "El Lenovo ThinkPad X13 Gen 3 es un portátil empresarial diseñado para profesionales que buscan rendimiento y portabilidad en un diseño compacto. Con su pantalla de alta resolución y especificaciones sólidas, es ideal para usuarios que necesitan un dispositivo confiable para su trabajo diario.",
+        "caracteristicas": {
+          "diseño": {
+            "tipo_producto": "Portátil",
+            "color": "Negro",
+            "factor_forma": "Concha",
+            "posicionamiento_mercado": "Negocios",
+            "marca_original": "Lenovo"
+          },
+          "exhibicion": {
+            "diagonal_pantalla": "13.3\"",
+            "resolucion_pantalla": "2560 x 1600 Pixeles",
+            "pantalla_tactil": false,
+            "tipo_hd": "2K",
+            "tipo_pantalla": "IPS",
+            "relacion_aspecto": "16:10",
+            "pantalla_antirreflectante": true,
+            "brillo_pantalla": "400 cd / m²",
+            "espacio_color_rgb": "sRGB",
+            "gama_colores": "100%"
+          },
+          "procesador": {
+            "fabricante": "Intel",
+            "modelo": "Core i5-1135G7",
+            "memoria_cache": "8 MB",
+            "hilos_ejecucion": 8,
+            "nucleos_procesador": 4,
+            "frecuencia": "2.4 GHz",
+            "frecuencia_max_turbo": "4.2 GHz",
+            "socket": "BGA 1449",
+            "potencia_disenio_termico": "15 W"
+          },
+          "memoria": {
+            "tipo": "DDR4",
+            "capacidad": "16 GB",
+            "velocidad": "3200 MHz",
+            "ranuras": "N/A",
+            "maxima_ampliable": "N/A"
+          },
+          "almacenamiento": {
+            "tipo": "SSD",
+            "capacidad": "512 GB"
+          },
+          "graficos": {
+            "integrados": true,
+            "modelo_discreto": null
+          },
+          "conexion": {
+            "wifi": "Wi-Fi 6",
+            "bluetooth": true
+          },
+          "peso_dimensiones": {
+            "peso": "Aprox. 1.24 kg",
+            "dimensiones": "Aprox. 311 x 217 x 16.9 mm"
+          }
+        }
+      },
+      {
+        "nombre": "HP Elite Dragonfly Max",
+        "precio": "Desde 1999.00€",
+        "descripcion": "El HP Elite Dragonfly Max es un portátil empresarial ultra ligero y ultraportátil que combina estilo, rendimiento y seguridad para satisfacer las necesidades de los profesionales más exigentes.",
+        "caracteristicas": {
+          "diseño": {
+            "tipo_producto": "Portátil",
+            "color": "Azul",
+            "factor_forma": "Concha",
+            "posicionamiento_mercado": "Negocios",
+            "marca_original": "HP"
+          },
+          "exhibicion": {
+            "diagonal_pantalla": "13.3\"",
+            "resolucion_pantalla": "1920 x 1080 Pixeles",
+            "pantalla_tactil": true,
+            "tipo_hd": "Full HD",
+            "tipo_pantalla": "IPS",
+            "relacion_aspecto": "16:9",
+            "pantalla_antirreflectante": true,
+            "brillo_pantalla": "400 cd / m²",
+            "espacio_color_rgb": "sRGB",
+            "gama_colores": "100%"
+          },
+          "procesador": {
+            "fabricante": "Intel",
+            "modelo": "Core i7-1185G7",
+            "memoria_cache": "12 MB",
+            "hilos_ejecucion": 8,
+            "nucleos_procesador": 4,
+            "frecuencia": "3.0 GHz",
+            "frecuencia_max_turbo": "4.8 GHz",
+            "socket": "BGA 1449",
+            "potencia_disenio_termico": "15 W"
+          },
+          "memoria": {
+            "tipo": "LPDDR4x",
+            "capacidad": "16 GB",
+            "velocidad": "4267 MHz",
+            "ranuras": "N/A",
+            "maxima_ampliable": "N/A"
+          },
+          "almacenamiento": {
+            "tipo": "SSD",
+            "capacidad": "1 TB"
+          },
+          "graficos": {
+            "integrados": true,
+            "modelo_discreto": null
+          },
+          "conexion": {
+            "wifi": "Wi-Fi 6",
+            "bluetooth": true
+          },
+          "peso_dimensiones": {
+            "peso": "Aprox. 0.99 kg",
+            "dimensiones": "Aprox. 304 x 197 x 16 mm"
+          }
+        }
+      },
+      {
+        "nombre": "HP Spectre x360 14t",
+        "precio": "Desde 1699.00€",
+        "descripcion": "El HP Spectre x360 14t es un portátil convertible premium que combina elegancia, rendimiento y versatilidad. Con su diseño innovador y especificaciones de vanguardia, es ideal para usuarios exigentes que buscan un dispositivo potente y flexible.",
+        "caracteristicas": {
+          "diseño": {
+            "tipo_producto": "Portátil convertible",
+            "color": "Plateado",
+            "factor_forma": "Convertible (carcasa)",
+            "posicionamiento_mercado": "Premium",
+            "marca_original": "HP"
+          },
+          "exhibicion": {
+            "diagonal_pantalla": "13.5\"",
+            "resolucion_pantalla": "3000 x 2000 Pixeles",
+            "pantalla_tactil": true,
+            "tipo_hd": "Quad HD",
+            "tipo_pantalla": "IPS",
+            "relacion_aspecto": "3:2",
+            "pantalla_antirreflectante": true,
+            "brillo_pantalla": "400 cd / m²",
+            "espacio_color_rgb": "DCI-P3",
+            "gama_colores": "100%"
+          },
+          "procesador": {
+            "fabricante": "Intel",
+            "modelo": "Core i7-1165G7",
+            "memoria_cache": "12 MB",
+            "hilos_ejecucion": 8,
+            "nucleos_procesador": 4,
+            "frecuencia": "2.8 GHz",
+            "frecuencia_max_turbo": "4.7 GHz",
+            "socket": "BGA 1449",
+            "potencia_disenio_termico": "15 W"
+          },
+          "memoria": {
+            "tipo": "LPDDR4x",
+            "capacidad": "16 GB",
+            "velocidad": "3200 MHz",
+            "ranuras": "N/A",
+            "maxima_ampliable": "N/A"
+          },
+          "almacenamiento": {
+            "tipo": "SSD",
+            "capacidad": "1 TB"
+          },
+          "graficos": {
+            "integrados": true,
+            "modelo_discreto": null
+          },
+          "conexion": {
+            "wifi": "Wi-Fi 6",
+            "bluetooth": true
+          },
+          "peso_dimensiones": {
+            "peso": "Aprox. 1.34 kg",
+            "dimensiones": "Aprox. 298 x 229 x 17 mm"
+          }
+        }
+      },
+      {
+        "nombre": "HP Envy 15",
+        "precio": "Desde 1299.00€",
+        "descripcion": "El HP Envy 15 es un portátil elegante y potente que ofrece un rendimiento excepcional y una experiencia de usuario de primera clase. Con su diseño premium y especificaciones de alto nivel, es ideal para usuarios exigentes que buscan un equilibrio entre estilo y rendimiento.",
+        "caracteristicas": {
+          "diseño": {
+            "tipo_producto": "Portátil",
+            "color": "Plata",
+            "factor_forma": "Concha",
+            "posicionamiento_mercado": "Premium",
+            "marca_original": "HP"
+          },
+          "exhibicion": {
+            "diagonal_pantalla": "15.6\"",
+            "resolucion_pantalla": "3840 x 2160 Pixeles",
+            "pantalla_tactil": false,
+            "tipo_hd": "4K Ultra HD",
+            "tipo_pantalla": "IPS",
+            "relacion_aspecto": "16:9",
+            "pantalla_antirreflectante": false,
+            "brillo_pantalla": "400 cd / m²",
+            "espacio_color_rgb": "sRGB",
+            "gama_colores": "100%"
+          },
+          "procesador": {
+            "fabricante": "Intel",
+            "modelo": "Core i7-1165G7",
+            "memoria_cache": "12 MB",
+            "hilos_ejecucion": 8,
+            "nucleos_procesador": 4,
+            "frecuencia": "2.8 GHz",
+            "frecuencia_max_turbo": "4.7 GHz",
+            "socket": "BGA 1449",
+            "potencia_disenio_termico": "15 W"
+          },
+          "memoria": {
+            "tipo": "DDR4",
+            "capacidad": "16 GB",
+            "velocidad": "3200 MHz",
+            "ranuras": "N/A",
+            "maxima_ampliable": "N/A"
+          },
+          "almacenamiento": {
+            "tipo": "SSD",
+            "capacidad": "512 GB"
+          },
+          "graficos": {
+            "integrados": true,
+            "modelo_discreto": null
+          },
+          "conexion": {
+            "wifi": "Wi-Fi 6",
+            "bluetooth": true
+          },
+          "peso_dimensiones": {
+            "peso": "Aprox. 2.14 kg",
+            "dimensiones": "Aprox. 355 x 234 x 19 mm"
+          }
+        }
+      },
+      {
+        "nombre": "HP Pavilion x360 14",
+        "precio": "Desde 749.00€",
+        "descripcion": "El HP Pavilion x360 14 es un portátil convertible versátil y asequible que ofrece un rendimiento sólido y una experiencia de usuario intuitiva. Con su diseño compacto y funciones flexibles, es ideal para usuarios que buscan un equilibrio entre rendimiento y portabilidad.",
+        "caracteristicas": {
+          "diseño": {
+            "tipo_producto": "Portátil convertible",
+            "color": "Plata",
+            "factor_forma": "Convertible (carcasa)",
+            "posicionamiento_mercado": "Mainstream",
+            "marca_original": "HP"
+          },
+          "exhibicion": {
+            "diagonal_pantalla": "14\"",
+            "resolucion_pantalla": "1920 x 1080 Pixeles",
+            "pantalla_tactil": true,
+            "tipo_hd": "Full HD",
+            "tipo_pantalla": "IPS",
+            "relacion_aspecto": "16:9",
+            "pantalla_antirreflectante": false,
+            "brillo_pantalla": "250 cd / m²",
+            "espacio_color_rgb": "sRGB",
+            "gama_colores": "45%"
+          },
+          "procesador": {
+            "fabricante": "Intel",
+            "modelo": "Core i3-1115G4",
+            "memoria_cache": "6 MB",
+            "hilos_ejecucion": 4,
+            "nucleos_procesador": 2,
+            "frecuencia": "3.0 GHz",
+            "frecuencia_max_turbo": "4.1 GHz",
+            "socket": "BGA 1449",
+            "potencia_disenio_termico": "28 W"
+          },
+          "memoria": {
+            "tipo": "DDR4",
+            "capacidad": "8 GB",
+            "velocidad": "3200 MHz",
+            "ranuras": "N/A",
+            "maxima_ampliable": "N/A"
+          },
+          "almacenamiento": {
+            "tipo": "SSD",
+            "capacidad": "256 GB"
+          },
+          "graficos": {
+            "integrados": true,
+            "modelo_discreto": null
+          },
+          "conexion": {
+            "wifi": "Wi-Fi 6",
+            "bluetooth": true
+          },
+          "peso_dimensiones": {
+            "peso": "Aprox. 1.61 kg",
+            "dimensiones": "Aprox. 324 x 222 x 20 mm"
+          }
+        }
+      },
+      {
+        "nombre": "HP Omen 15",
+        "precio": "Desde 1199.00€",
+        "descripcion": "El HP Omen 15 es un portátil gaming de alto rendimiento diseñado para ofrecer una experiencia de juego excepcional. Con su potente hardware y su diseño robusto, es ideal para jugadores exigentes que buscan un rendimiento óptimo y una gran calidad de construcción.",
+        "caracteristicas": {
+          "diseño": {
+            "tipo_producto": "Portátil gaming",
+            "color": "Negro",
+            "factor_forma": "Concha",
+            "posicionamiento_mercado": "Gaming",
+            "marca_original": "HP"
+          },
+          "exhibicion": {
+            "diagonal_pantalla": "15.6\"",
+            "resolucion_pantalla": "1920 x 1080 Pixeles",
+            "pantalla_tactil": false,
+            "tipo_hd": "Full HD",
+            "tipo_pantalla": "IPS",
+            "relacion_aspecto": "16:9",
+            "pantalla_antirreflectante": false,
+            "brillo_pantalla": "250 cd / m²",
+            "espacio_color_rgb": "sRGB",
+            "gama_colores": "45%"
+          },
+          "procesador": {
+            "fabricante": "Intel",
+            "modelo": "Core i7-10750H",
+            "memoria_cache": "12 MB",
+            "hilos_ejecucion": 12,
+            "nucleos_procesador": 6,
+            "frecuencia": "2.6 GHz",
+            "frecuencia_max_turbo": "5.0 GHz",
+            "socket": "FCBGA1449",
+            "potencia_disenio_termico": "45 W"
+          },
+          "memoria": {
+            "tipo": "DDR4",
+            "capacidad": "16 GB",
+            "velocidad": "2933 MHz",
+            "ranuras": "N/A",
+            "maxima_ampliable": "N/A"
+          },
+          "almacenamiento": {
+            "tipo": "SSD",
+            "capacidad": "512 GB"
+          },
+          "graficos": {
+            "integrados": false,
+            "modelo_discreto": "NVIDIA GeForce RTX 3060",
+            "memoria_grafica": "6 GB GDDR6"
+          },
+          "conexion": {
+            "wifi": "Wi-Fi 6",
+            "bluetooth": true
+          },
+          "peso_dimensiones": {
+            "peso": "Aprox. 2.36 kg",
+            "dimensiones": "Aprox. 357 x 239 x 22 mm"
+          }
+        }
+      },
+      {
+        "nombre": "HP Pavilion 15",
+        "precio": "Desde 899.00€",
+        "descripcion": "El HP Pavilion 15 es un portátil versátil y asequible que ofrece un rendimiento sólido y una experiencia de usuario intuitiva. Con su diseño moderno y especificaciones equilibradas, es ideal para usuarios que buscan un portátil fiable para el uso diario.",
+        "caracteristicas": {
+          "diseño": {
+            "tipo_producto": "Portátil",
+            "color": "Negro",
+            "factor_forma": "Concha",
+            "posicionamiento_mercado": "Mainstream",
+            "marca_original": "HP"
+          },
+          "exhibicion": {
+            "diagonal_pantalla": "15.6\"",
+            "resolucion_pantalla": "1920 x 1080 Pixeles",
+            "pantalla_tactil": false,
+            "tipo_hd": "Full HD",
+            "tipo_pantalla": "IPS",
+            "relacion_aspecto": "16:9",
+            "pantalla_antirreflectante": false,
+            "brillo_pantalla": "250 cd / m²",
+            "espacio_color_rgb": "sRGB",
+            "gama_colores": "45%"
+          },
+          "procesador": {
+            "fabricante": "Intel",
+            "modelo": "Core i5-1135G7",
+            "memoria_cache": "8 MB",
+            "hilos_ejecucion": 8,
+            "nucleos_procesador": 4,
+            "frecuencia": "2.4 GHz",
+            "frecuencia_max_turbo": "4.2 GHz",
+            "socket": "BGA 1449",
+            "potencia_disenio_termico": "15 W"
+          },
+          "memoria": {
+            "tipo": "DDR4",
+            "capacidad": "8 GB",
+            "velocidad": "3200 MHz",
+            "ranuras": "N/A",
+            "maxima_ampliable": "N/A"
+          },
+          "almacenamiento": {
+            "tipo": "SSD",
+            "capacidad": "256 GB"
+          },
+          "graficos": {
+            "integrados": true,
+            "modelo_discreto": null
+          },
+          "conexion": {
+            "wifi": "Wi-Fi 6",
+            "bluetooth": true
+          },
+          "peso_dimensiones": {
+            "peso": "Aprox. 1.75 kg",
+            "dimensiones": "Aprox. 360 x 249 x 17.9 mm"
+          }
+        }
+      },
+      {
+        "nombre": "HP EliteBook x360 1040 G7",
+        "precio": "Desde 1699.00€",
+        "descripcion": "El HP EliteBook x360 1040 G7 es un portátil convertible premium diseñado para profesionales que buscan un equilibrio entre rendimiento, portabilidad y seguridad. Con su diseño elegante y especificaciones de vanguardia, es ideal para usuarios exigentes que necesitan un dispositivo versátil para su trabajo diario.",
+        "caracteristicas": {
+          "diseño": {
+            "tipo_producto": "Portátil convertible",
+            "color": "Plata",
+            "factor_forma": "Convertible (carcasa)",
+            "posicionamiento_mercado": "Negocios",
+            "marca_original": "HP"
+          },
+          "exhibicion": {
+            "diagonal_pantalla": "14\"",
+            "resolucion_pantalla": "1920 x 1080 Pixeles",
+            "pantalla_tactil": true,
+            "tipo_hd": "Full HD",
+            "tipo_pantalla": "IPS",
+            "relacion_aspecto": "16:9",
+            "pantalla_antirreflectante": true,
+            "brillo_pantalla": "1000 cd / m²",
+            "espacio_color_rgb": "sRGB",
+            "gama_colores": "100%"
+          },
+          "procesador": {
+            "fabricante": "Intel",
+            "modelo": "Core i5-10310U",
+            "memoria_cache": "6 MB",
+            "hilos_ejecucion": 8,
+            "nucleos_procesador": 4,
+            "frecuencia": "1.7 GHz",
+            "frecuencia_max_turbo": "4.4 GHz",
+            "socket": "FCBGA1356",
+            "potencia_disenio_termico": "15 W"
+          },
+          "memoria": {
+            "tipo": "DDR4",
+            "capacidad": "8 GB",
+            "velocidad": "2666 MHz",
+            "ranuras": "N/A",
+            "maxima_ampliable": "N/A"
+          },
+          "almacenamiento": {
+            "tipo": "SSD",
+            "capacidad": "256 GB"
+          },
+          "graficos": {
+            "integrados": true,
+            "modelo_discreto": null
+          },
+          "conexion": {
+            "wifi": "Wi-Fi 6",
+            "bluetooth": true
+          },
+          "peso_dimensiones": {
+            "peso": "Aprox. 1.35 kg",
+            "dimensiones": "Aprox. 322 x 215 x 17.7 mm"
+          }
+        }
+      },
+      {
+        "nombre": "HP Pavilion 14",
+        "precio": "Desde 599.00€",
+        "descripcion": "El HP Pavilion 14 es un portátil versátil y asequible que ofrece un rendimiento fiable y una experiencia de usuario intuitiva. Con su diseño elegante y especificaciones equilibradas, es ideal para usuarios que buscan un portátil para el uso diario.",
+        "caracteristicas": {
+          "diseño": {
+            "tipo_producto": "Portátil",
+            "color": "Plata",
+            "factor_forma": "Concha",
+            "posicionamiento_mercado": "Mainstream",
+            "marca_original": "HP"
+          },
+          "exhibicion": {
+            "diagonal_pantalla": "14\"",
+            "resolucion_pantalla": "1920 x 1080 Pixeles",
+            "pantalla_tactil": false,
+            "tipo_hd": "Full HD",
+            "tipo_pantalla": "IPS",
+            "relacion_aspecto": "16:9",
+            "pantalla_antirreflectante": false,
+            "brillo_pantalla": "250 cd / m²",
+            "espacio_color_rgb": "sRGB",
+            "gama_colores": "45%"
+          },
+          "procesador": {
+            "fabricante": "Intel",
+            "modelo": "Core i3-1115G4",
+            "memoria_cache": "6 MB",
+            "hilos_ejecucion": 4,
+            "nucleos_procesador": 2,
+            "frecuencia": "3.0 GHz",
+            "frecuencia_max_turbo": "4.1 GHz",
+            "socket": "BGA 1449",
+            "potencia_disenio_termico": "28 W"
+          },
+          "memoria": {
+            "tipo": "DDR4",
+            "capacidad": "8 GB",
+            "velocidad": "3200 MHz",
+            "ranuras": "N/A",
+            "maxima_ampliable": "N/A"
+          },
+          "almacenamiento": {
+            "tipo": "SSD",
+            "capacidad": "256 GB"
+          },
+          "graficos": {
+            "integrados": true,
+            "modelo_discreto": null
+          },
+          "conexion": {
+            "wifi": "Wi-Fi 6",
+            "bluetooth": true
+          },
+          "peso_dimensiones": {
+            "peso": "Aprox. 1.41 kg",
+            "dimensiones": "Aprox. 324 x 222 x 20 mm"
+          }
+        }
+      },
+      {
+        "nombre": "HP Elite Dragonfly",
+        "precio": "Desde 1749.00€",
+        "descripcion": "El HP Elite Dragonfly es un portátil empresarial ultraligero diseñado para profesionales móviles que buscan un dispositivo potente, elegante y seguro. Con su diseño premium y especificaciones de alto nivel, es ideal para usuarios exigentes que necesitan un portátil versátil para su trabajo diario.",
+        "caracteristicas": {
+          "diseño": {
+            "tipo_producto": "Portátil",
+            "color": "Azul",
+            "factor_forma": "Concha",
+            "posicionamiento_mercado": "Negocios",
+            "marca_original": "HP"
+          },
+          "exhibicion": {
+            "diagonal_pantalla": "13.3\"",
+            "resolucion_pantalla": "1920 x 1080 Pixeles",
+            "pantalla_tactil": true,
+            "tipo_hd": "Full HD",
+            "tipo_pantalla": "IPS",
+            "relacion_aspecto": "16:9",
+            "pantalla_antirreflectante": true,
+            "brillo_pantalla": "400 cd / m²",
+            "espacio_color_rgb": "sRGB",
+            "gama_colores": "100%"
+          },
+          "procesador": {
+            "fabricante": "Intel",
+            "modelo": "Core i5-8265U",
+            "memoria_cache": "6 MB",
+            "hilos_ejecucion": 8,
+            "nucleos_procesador": 4,
+            "frecuencia": "1.6 GHz",
+            "frecuencia_max_turbo": "3.9 GHz",
+            "socket": "FCBGA1528",
+            "potencia_disenio_termico": "15 W"
+          },
+          "memoria": {
+            "tipo": "LPDDR3",
+            "capacidad": "16 GB",
+            "velocidad": "2133 MHz",
+            "ranuras": "N/A",
+            "maxima_ampliable": "N/A"
+          },
+          "almacenamiento": {
+            "tipo": "SSD",
+            "capacidad": "512 GB"
+          },
+          "graficos": {
+            "integrados": true,
+            "modelo_discreto": null
+          },
+          "conexion": {
+            "wifi": "Wi-Fi 6",
+            "bluetooth": true
+          },
+          "peso_dimensiones": {
+            "peso": "Aprox. 0.99 kg",
+            "dimensiones": "Aprox. 304 x 197 x 16 mm"
+          }
+        }
+      },
+      {
+        "nombre": "HP Envy x360 15",
+        "precio": "Desde 1199.00€",
+        "descripcion": "El HP Envy x360 15 es un portátil convertible premium diseñado para usuarios exigentes que buscan un equilibrio entre rendimiento, versatilidad y estilo. Con su diseño elegante y especificaciones de vanguardia, es ideal para profesionales creativos y usuarios móviles.",
+        "caracteristicas": {
+          "diseño": {
+            "tipo_producto": "Portátil convertible",
+            "color": "Plata",
+            "factor_forma": "Convertible (carcasa)",
+            "posicionamiento_mercado": "Premium",
+            "marca_original": "HP"
+          },
+          "exhibicion": {
+            "diagonal_pantalla": "15.6\"",
+            "resolucion_pantalla": "1920 x 1080 Pixeles",
+            "pantalla_tactil": true,
+            "tipo_hd": "Full HD",
+            "tipo_pantalla": "IPS",
+            "relacion_aspecto": "16:9",
+            "pantalla_antirreflectante": false,
+            "brillo_pantalla": "400 cd / m²",
+            "espacio_color_rgb": "sRGB",
+            "gama_colores": "100%"
+          },
+          "procesador": {
+            "fabricante": "AMD",
+            "modelo": "Ryzen 5 4500U",
+            "memoria_cache": "8 MB",
+            "hilos_ejecucion": 12,
+            "nucleos_procesador": 6,
+            "frecuencia": "2.3 GHz",
+            "frecuencia_max_turbo": "4.0 GHz",
+            "socket": "FP6",
+            "potencia_disenio_termico": "15 W"
+          },
+          "memoria": {
+            "tipo": "DDR4",
+            "capacidad": "8 GB",
+            "velocidad": "3200 MHz",
+            "ranuras": "N/A",
+            "maxima_ampliable": "N/A"
+          },
+          "almacenamiento": {
+            "tipo": "SSD",
+            "capacidad": "512 GB"
+          },
+          "graficos": {
+            "integrados": true,
+            "modelo_discreto": null
+          },
+          "conexion": {
+            "wifi": "Wi-Fi 6",
+            "bluetooth": true
+          },
+          "peso_dimensiones": {
+            "peso": "Aprox. 2.00 kg",
+            "dimensiones": "Aprox. 358 x 234 x 19 mm"
+          }
+        }
+      },
+      {
+        "nombre": "HP Chromebook 14",
+        "precio": "Desde 329.00€",
+        "descripcion": "El HP Chromebook 14 es un portátil ligero y asequible diseñado para estudiantes y usuarios que buscan un dispositivo básico para tareas sencillas y navegación web. Con su sistema operativo Chrome OS y su diseño compacto, es ideal para el uso diario en entornos educativos y domésticos.",
+        "caracteristicas": {
+          "diseño": {
+            "tipo_producto": "Chromebook",
+            "color": "Blanco",
+            "factor_forma": "Concha",
+            "posicionamiento_mercado": "Mainstream",
+            "marca_original": "HP"
+          },
+          "exhibicion": {
+            "diagonal_pantalla": "14\"",
+            "resolucion_pantalla": "1366 x 768 Pixeles",
+            "pantalla_tactil": false,
+            "tipo_hd": "HD",
+            "tipo_pantalla": "SVA",
+            "relacion_aspecto": "16:9",
+            "pantalla_antirreflectante": false,
+            "brillo_pantalla": "220 cd / m²",
+            "espacio_color_rgb": null,
+            "gama_colores": null
+          },
+          "procesador": {
+            "fabricante": "Intel",
+            "modelo": "Celeron N4020",
+            "memoria_cache": "4 MB",
+            "hilos_ejecucion": 4,
+            "nucleos_procesador": 2,
+            "frecuencia": "1.1 GHz",
+            "frecuencia_max_turbo": "2.8 GHz",
+            "socket": "FCBGA1090",
+            "potencia_disenio_termico": "6 W"
+          },
+          "memoria": {
+            "tipo": "LPDDR4",
+            "capacidad": "4 GB",
+            "velocidad": "2400 MHz",
+            "ranuras": "N/A",
+            "maxima_ampliable": "N/A"
+          },
+          "almacenamiento": {
+            "tipo": "eMMC",
+            "capacidad": "32 GB"
+          },
+          "graficos": {
+            "integrados": true,
+            "modelo_discreto": null
+          },
+          "conexion": {
+            "wifi": "Wi-Fi 5",
+            "bluetooth": true
+          },
+          "peso_dimensiones": {
+            "peso": "Aprox. 1.46 kg",
+            "dimensiones": "Aprox. 324 x 225 x 18 mm"
+          }
+        }
+      },
+      {
+        "nombre": "MSI GS66 Stealth",
+        "precio": "Desde 1699.99€",
+        "descripcion": "El MSI GS66 Stealth es un portátil para juegos de alta gama diseñado para ofrecer un rendimiento excepcional en un formato delgado y portátil. Con su potente hardware y su diseño elegante, es ideal para jugadores que necesitan potencia en movimiento.",
+        "caracteristicas": {
+          "diseño": {
+            "tipo_producto": "Portátil para juegos",
+            "color": "Negro",
+            "factor_forma": "Concha",
+            "posicionamiento_mercado": "Gaming",
+            "marca_original": "MSI"
+          },
+          "exhibicion": {
+            "diagonal_pantalla": "15.6\"",
+            "resolucion_pantalla": "1920 x 1080 Pixeles",
+            "pantalla_tactil": false,
+            "tipo_hd": "Full HD",
+            "tipo_pantalla": "IPS",
+            "relacion_aspecto": "16:9",
+            "pantalla_antirreflectante": true,
+            "brillo_pantalla": "300 cd / m²",
+            "espacio_color_rgb": "sRGB",
+            "gama_colores": "100%"
+          },
+          "procesador": {
+            "fabricante": "Intel",
+            "modelo": "Core i7-10750H",
+            "memoria_cache": "12 MB",
+            "hilos_ejecucion": 12,
+            "nucleos_procesador": 6,
+            "frecuencia": "2.6 GHz",
+            "frecuencia_max_turbo": "5.0 GHz",
+            "socket": "FCBGA1449",
+            "potencia_disenio_termico": "45 W"
+          },
+          "memoria": {
+            "tipo": "DDR4",
+            "capacidad": "16 GB",
+            "velocidad": "3200 MHz",
+            "ranuras": "2x SO-DIMM",
+            "maxima_ampliable": "64 GB"
+          },
+          "almacenamiento": {
+            "tipo": "SSD",
+            "capacidad": "1 TB"
+          },
+          "graficos": {
+            "integrados": false,
+            "modelo_discreto": "NVIDIA GeForce RTX 3070"
+          },
+          "conexion": {
+            "wifi": "Wi-Fi 6E",
+            "bluetooth": true
+          },
+          "peso_dimensiones": {
+            "peso": "Aprox. 2.1 kg",
+            "dimensiones": "Aprox. 358.3 x 248 x 19.8 mm"
+          }
+        }
+      },
+      {
+        "nombre": "MSI Prestige 14 Evo",
+        "precio": "Desde 1199.99€",
+        "descripcion": "El MSI Prestige 14 Evo es un portátil ultraligero diseñado para profesionales creativos que necesitan rendimiento y portabilidad. Con su diseño elegante y especificaciones potentes, es ideal para diseño gráfico, edición de video y otras tareas creativas.",
+        "caracteristicas": {
+          "diseño": {
+            "tipo_producto": "Portátil",
+            "color": "Blanco",
+            "factor_forma": "Concha",
+            "posicionamiento_mercado": "Premium",
+            "marca_original": "MSI"
+          },
+          "exhibicion": {
+            "diagonal_pantalla": "14\"",
+            "resolucion_pantalla": "1920 x 1080 Pixeles",
+            "pantalla_tactil": false,
+            "tipo_hd": "Full HD",
+            "tipo_pantalla": "IPS",
+            "relacion_aspecto": "16:9",
+            "pantalla_antirreflectante": true,
+            "brillo_pantalla": "300 cd / m²",
+            "espacio_color_rgb": "sRGB",
+            "gama_colores": "100%"
+          },
+          "procesador": {
+            "fabricante": "Intel",
+            "modelo": "Core i7-1185G7",
+            "memoria_cache": "12 MB",
+            "hilos_ejecucion": 12,
+            "nucleos_procesador": 4,
+            "frecuencia": "3.0 GHz",
+            "frecuencia_max_turbo": "4.8 GHz",
+            "socket": "FCBGA1449",
+            "potencia_disenio_termico": "28 W"
+          },
+          "memoria": {
+            "tipo": "LPDDR4X",
+            "capacidad": "16 GB",
+            "velocidad": "4266 MHz",
+            "ranuras": "N/A",
+            "maxima_ampliable": "N/A"
+          },
+          "almacenamiento": {
+            "tipo": "SSD",
+            "capacidad": "1 TB"
+          },
+          "graficos": {
+            "integrados": true,
+            "modelo_discreto": null
+          },
+          "conexion": {
+            "wifi": "Wi-Fi 6",
+            "bluetooth": true
+          },
+          "peso_dimensiones": {
+            "peso": "Aprox. 1.29 kg",
+            "dimensiones": "Aprox. 319 x 215 x 16.9 mm"
+          }
+        }
+      },
+     {
+        "nombre": "MSI GE76 Raider",
+        "precio": "Desde 1999.99€",
+        "descripcion": "El MSI GE76 Raider es un portátil para juegos de alto rendimiento diseñado para ofrecer la máxima potencia y rendimiento gráfico. Con su diseño robusto y especificaciones de vanguardia, es ideal para jugadores y entusiastas de la informática.",
+        "caracteristicas": {
+          "diseño": {
+            "tipo_producto": "Portátil para juegos",
+            "color": "Negro",
+            "factor_forma": "Concha",
+             "posicionamiento_mercado": "Gaming",
+            "marca_original": "MSI"
+          },
+          "exhibicion": {
+            "diagonal_pantalla": "17.3\"",
+            "resolucion_pantalla": "1920 x 1080 Pixeles",
+            "pantalla_tactil": false,
+            "tipo_hd": "Full HD",
+            "tipo_pantalla": "IPS",
+            "relacion_aspecto": "16:9",
+            "pantalla_antirreflectante": true,
+            "brillo_pantalla": "300 cd / m²",
+            "espacio_color_rgb": "sRGB",
+            "gama_colores": "100%"
+          },
+          "procesador": {
+            "fabricante": "Intel",
+            "modelo": "Core i9-10980HK",
+            "memoria_cache": "16 MB",
+            "hilos_ejecucion": 16,
+            "nucleos_procesador": 8,
+            "frecuencia": "2.4 GHz",
+            "frecuencia_max_turbo": "5.3 GHz",
+            "socket": "FCBGA1449",
+            "potencia_disenio_termico": "45 W"
+          },
+          "memoria": {
+            "tipo": "DDR4",
+            "capacidad": "32 GB",
+            "velocidad": "3200 MHz",
+            "ranuras": "4x SO-DIMM",
+            "maxima_ampliable": "128 GB"
+          },
+          "almacenamiento": {
+            "tipo": "SSD",
+            "capacidad": "2 TB"
+          },
+          "graficos": {
+            "integrados": false,
+            "modelo_discreto": "NVIDIA GeForce RTX 3080"
+          },
+          "conexion": {
+            "wifi": "Wi-Fi 6E",
+            "bluetooth": true
+          },
+          "peso_dimensiones": {
+            "peso": "Aprox. 2.9 kg",
+            "dimensiones": "Aprox. 397 x 284 x 26.5 mm"
+          }
+        }
+      },
+      {
+        "nombre": "MSI Creator Z16",
+        "precio": "Desde 2299.99€",
+        "descripcion": "El MSI Creator Z16 es un portátil diseñado específicamente para creadores de contenido y profesionales multimedia. Con su pantalla táctil de alta resolución y su hardware potente, es ideal para edición de video, diseño gráfico y otras tareas creativas intensivas.",
+        "caracteristicas": {
+          "diseño": {
+            "tipo_producto": "Portátil para creación de contenido",
+            "color": "Gris",
+            "factor_forma": "Concha",
+            "posicionamiento_mercado": "Profesional",
+            "marca_original": "MSI"
+          },
+          "exhibicion": {
+            "diagonal_pantalla": "16\"",
+            "resolucion_pantalla": "2560 x 1600 Pixeles",
+            "pantalla_tactil": true,
+            "tipo_hd": "WQXGA",
+            "tipo_pantalla": "IPS",
+            "relacion_aspecto": "16:10",
+            "pantalla_antirreflectante": true,
+            "brillo_pantalla": "500 cd / m²",
+            "espacio_color_rgb": "AdobeRGB",
+            "gama_colores": "100%"
+          },
+          "procesador": {
+            "fabricante": "Intel",
+            "modelo": "Core i9-11900H",
+            "memoria_cache": "24 MB",
+            "hilos_ejecucion": 16,
+            "nucleos_procesador": 8,
+            "frecuencia": "2.5 GHz",
+            "frecuencia_max_turbo": "4.9 GHz",
+            "socket": "FCBGA1449",
+            "potencia_disenio_termico": "45 W"
+          },
+          "memoria": {
+            "tipo": "DDR4",
+            "capacidad": "64 GB",
+            "velocidad": "3200 MHz",
+            "ranuras": "2x SO-DIMM",
+            "maxima_ampliable": "N/A"
+          },
+          "almacenamiento": {
+            "tipo": "SSD",
+            "capacidad": "2 TB"
+          },
+          "graficos": {
+            "integrados": false,
+            "modelo_discreto": "NVIDIA GeForce RTX 3060"
+          },
+          "conexion": {
+            "wifi": "Wi-Fi 6",
+            "bluetooth": true
+          },
+          "peso_dimensiones": {
+            "peso": "Aprox. 2.2 kg",
+            "dimensiones": "Aprox. 358.3 x 248 x 17.9 mm"
+          }
+        }
+      },
+      {
+        "nombre": "Dell XPS 15",
+        "marca": "Dell",
+        "precio": "Desde 1499.99€",
+        "descripcion": "El Dell XPS 15 es un portátil premium diseñado para usuarios exigentes que buscan rendimiento y calidad. Con su pantalla de alta resolución y especificaciones potentes, es ideal para profesionales creativos y usuarios avanzados.",
+        "caracteristicas": {
+          "diseño": {
+            "tipo_producto": "Portátil",
+            "color": "Plata",
+            "factor_forma": "Concha",
+            "posicionamiento_mercado": "Premium",
+            "marca_original": "Dell"
+          },
+          "exhibicion": {
+            "diagonal_pantalla": "15.6\"",
+            "resolucion_pantalla": "3840 x 2400 Pixeles",
+            "pantalla_tactil": false,
+            "tipo_hd": "4K UHD",
+            "tipo_pantalla": "IPS",
+            "relacion_aspecto": "16:10",
+            "pantalla_antirreflectante": true,
+            "brillo_pantalla": "500 cd / m²",
+            "espacio_color_rgb": "AdobeRGB",
+            "gama_colores": "100%"
+          },
+          "procesador": {
+            "fabricante": "Intel",
+            "modelo": "Core i7-11800H",
+            "memoria_cache": "24 MB",
+            "hilos_ejecucion": 16,
+            "nucleos_procesador": 8,
+            "frecuencia": "2.3 GHz",
+            "frecuencia_max_turbo": "4.6 GHz",
+            "socket": "FCBGA1449",
+            "potencia_disenio_termico": "45 W"
+          },
+          "memoria": {
+            "tipo": "DDR4",
+            "capacidad": "16 GB",
+            "velocidad": "3200 MHz",
+            "ranuras": "2x SO-DIMM",
+            "maxima_ampliable": "64 GB"
+          },
+          "almacenamiento": {
+            "tipo": "SSD",
+            "capacidad": "512 GB"
+          },
+          "graficos": {
+            "integrados": false,
+            "modelo_discreto": "NVIDIA GeForce GTX 1650 Ti"
+          },
+          "conexion": {
+            "wifi": "Wi-Fi 6",
+            "bluetooth": true
+          },
+          "peso_dimensiones": {
+            "peso": "Aprox. 1.83 kg",
+            "dimensiones": "Aprox. 344.4 x 230.1 x 18 mm"
+          }
+        }
+      },
+      {
+        "nombre": "Lenovo Legion 5",
+        "marca": "Lenovo",
+        "precio": "Desde 999.99€",
+        "descripcion": "El Lenovo Legion 5 es un portátil para juegos de gama media diseñado para ofrecer un rendimiento sólido a un precio asequible. Con su hardware equilibrado y su diseño robusto, es ideal para jugadores que buscan un buen rendimiento sin romper el banco.",
+        "caracteristicas": {
+          "diseño": {
+            "tipo_producto": "Portátil para juegos",
+            "color": "Negro",
+            "factor_forma": "Concha",
+            "posicionamiento_mercado": "Gaming",
+            "marca_original": "Lenovo"
+          },
+          "exhibicion": {
+            "diagonal_pantalla": "15.6\"",
+            "resolucion_pantalla": "1920 x 1080 Pixeles",
+            "pantalla_tactil": false,
+            "tipo_hd": "Full HD",
+            "tipo_pantalla": "IPS",
+            "relacion_aspecto": "16:9",
+            "pantalla_antirreflectante": true,
+            "brillo_pantalla": "300 cd / m²",
+            "espacio_color_rgb": "sRGB",
+            "gama_colores": "100%"
+          },
+          "procesador": {
+            "fabricante": "AMD",
+            "modelo": "Ryzen 7 5800H",
+            "memoria_cache": "20 MB",
+            "hilos_ejecucion": 16,
+            "nucleos_procesador": 8,
+            "frecuencia": "3.2 GHz",
+            "frecuencia_max_turbo": "4.4 GHz",
+            "socket": "FP6",
+            "potencia_disenio_termico": "45 W"
+          },
+          "memoria": {
+            "tipo": "DDR4",
+            "capacidad": "16 GB",
+            "velocidad": "3200 MHz",
+            "ranuras": "2x SO-DIMM",
+            "maxima_ampliable": "32 GB"
+          },
+          "almacenamiento": {
+            "tipo": "SSD",
+            "capacidad": "512 GB"
+          },
+          "graficos": {
+            "integrados": false,
+            "modelo_discreto": "NVIDIA GeForce GTX 1660 Ti"
+          },
+          "conexion": {
+            "wifi": "Wi-Fi 6",
+            "bluetooth": true
+          },
+          "peso_dimensiones": {
+            "peso": "Aprox. 2.5 kg",
+            "dimensiones": "Aprox. 363.06 x 259.61 x 22.6 mm"
+          }
+        }
+      },
+      {
+        "nombre": "Acer Swift 3",
+        "marca": "Acer",
+        "precio": "Desde 699.99€",
+        "descripcion": "El Acer Swift 3 es un portátil ultradelgado diseñado para usuarios que buscan portabilidad y rendimiento. Con su diseño elegante y especificaciones equilibradas, es ideal para estudiantes, profesionales y usuarios domésticos.",
+        "caracteristicas": {
+          "diseño": {
+            "tipo_producto": "Portátil",
+            "color": "Plata",
+            "factor_forma": "Concha",
+            "posicionamiento_mercado": "Mainstream",
+            "marca_original": "Acer"
+          },
+          "exhibicion": {
+            "diagonal_pantalla": "14\"",
+            "resolucion_pantalla": "1920 x 1080 Pixeles",
+            "pantalla_tactil": false,
+            "tipo_hd": "Full HD",
+            "tipo_pantalla": "IPS",
+            "relacion_aspecto": "16:9",
+            "pantalla_antirreflectante": true,
+            "brillo_pantalla": "300 cd / m²",
+            "espacio_color_rgb": "sRGB",
+            "gama_colores": "100%"
+          },
+          "procesador": {
+            "fabricante": "AMD",
+            "modelo": "Ryzen 5 5600U",
+            "memoria_cache": "19 MB",
+            "hilos_ejecucion": 12,
+            "nucleos_procesador": 6,
+            "frecuencia": "2.3 GHz",
+            "frecuencia_max_turbo": "4.2 GHz",
+            "socket": "FP6",
+            "potencia_disenio_termico": "15 W"
+          },
+          "memoria": {
+            "tipo": "LPDDR4X",
+            "capacidad": "8 GB",
+            "velocidad": "4266 MHz",
+            "ranuras": "N/A",
+            "maxima_ampliable": "N/A"
+          },
+          "almacenamiento": {
+            "tipo": "SSD",
+            "capacidad": "512 GB"
+          },
+          "graficos": {
+            "integrados": false,
+            "modelo_discreto": "N/A"
+          },
+          "conexion": {
+            "wifi": "Wi-Fi 6",
+            "bluetooth": true
+          },
+          "peso_dimensiones": {
+            "peso": "Aprox. 1.2 kg",
+            "dimensiones": "Aprox. 319.5 x 218.9 x 15.95 mm"
+          }
+        }
+      },
+      {
+        "nombre": "HP Spectre x360",
+        "marca": "HP",
+        "precio": "Desde 1299.99€",
+        "descripcion": "El HP Spectre x360 es un portátil convertible premium que combina estilo, rendimiento y versatilidad. Con su diseño elegante y especificaciones potentes, es perfecto para profesionales creativos y usuarios exigentes.",
+        "caracteristicas": {
+          "diseño": {
+            "tipo_producto": "Portátil convertible",
+            "color": "Negro",
+            "factor_forma": "Concha",
+            "posicionamiento_mercado": "Premium",
+            "marca_original": "HP"
+          },
+          "exhibicion": {
+            "diagonal_pantalla": "13.3\"",
+            "resolucion_pantalla": "3840 x 2160 Pixeles",
+            "pantalla_tactil": true,
+            "tipo_hd": "4K UHD",
+            "tipo_pantalla": "IPS",
+            "relacion_aspecto": "16:9",
+            "pantalla_antirreflectante": true,
+            "brillo_pantalla": "400 cd / m²",
+            "espacio_color_rgb": "sRGB",
+            "gama_colores": "100%"
+          },
+          "procesador": {
+            "fabricante": "Intel",
+            "modelo": "Core i7-1165G7",
+            "memoria_cache": "12 MB",
+            "hilos_ejecucion": 12,
+            "nucleos_procesador": 4,
+            "frecuencia": "2.8 GHz",
+            "frecuencia_max_turbo": "4.7 GHz",
+            "socket": "FCBGA1449",
+            "potencia_disenio_termico": "15 W"
+          },
+          "memoria": {
+            "tipo": "LPDDR4X",
+            "capacidad": "16 GB",
+            "velocidad": "4266 MHz",
+            "ranuras": "N/A",
+            "maxima_ampliable": "N/A"
+          },
+          "almacenamiento": {
+            "tipo": "SSD",
+            "capacidad": "1 TB"
+          },
+          "graficos": {
+            "integrados": true,
+            "modelo_discreto": "N/A"
+          },
+          "conexion": {
+            "wifi": "Wi-Fi 6",
+            "bluetooth": true
+          },
+          "peso_dimensiones": {
+            "peso": "Aprox. 1.27 kg",
+            "dimensiones": "Aprox. 306.5 x 194.5 x 16.9 mm"
+          }
+        }
+      },
+      {
+        "nombre": "Asus ROG Zephyrus G14",
+        "marca": "Asus",
+        "precio": "Desde 1499.99€",
+        "descripcion": "El Asus ROG Zephyrus G14 es un portátil para juegos compacto y potente diseñado para ofrecer un rendimiento excepcional en un formato portátil. Con su diseño llamativo y especificaciones de vanguardia, es ideal para jugadores que buscan potencia en movimiento.",
+        "caracteristicas": {
+          "diseño": {
+            "tipo_producto": "Portátil para juegos",
+            "color": "Negro",
+            "factor_forma": "Concha",
+            "posicionamiento_mercado": "Gaming",
+            "marca_original": "Asus"
+          },
+          "exhibicion": {
+            "diagonal_pantalla": "14\"",
+            "resolucion_pantalla": "2560 x 1440 Pixeles",
+            "pantalla_tactil": false,
+            "tipo_hd": "QHD",
+            "tipo_pantalla": "IPS",
+            "relacion_aspecto": "16:9",
+            "pantalla_antirreflectante": true,
+            "brillo_pantalla": "300 cd / m²",
+            "espacio_color_rgb": "sRGB",
+            "gama_colores": "100%"
+          },
+          "procesador": {
+            "fabricante": "AMD",
+            "modelo": "Ryzen 9 5900HS",
+            "memoria_cache": "16 MB",
+            "hilos_ejecucion": 16,
+            "nucleos_procesador": 8,
+            "frecuencia": "3.0 GHz",
+            "frecuencia_max_turbo": "4.6 GHz",
+            "socket": "FP6",
+            "potencia_disenio_termico": "35 W"
+          },
+          "memoria": {
+            "tipo": "DDR4",
+            "capacidad": "16 GB",
+            "velocidad": "3200 MHz",
+            "ranuras": "2x SO-DIMM",
+            "maxima_ampliable": "32 GB"
+          },
+          "almacenamiento": {
+            "tipo": "SSD",
+            "capacidad": "1 TB"
+          },
+          "graficos": {
+            "integrados": false,
+            "modelo_discreto": "NVIDIA GeForce RTX 3060"
+          },
+          "conexion": {
+            "wifi": "Wi-Fi 6",
+            "bluetooth": true
+          },
+          "peso_dimensiones": {
+            "peso": "Aprox. 1.7 kg",
+            "dimensiones": "Aprox. 324 x 222 x 19.9 mm"
+          }
+        }
+      },
+      {
+        "nombre": "Apple MacBook Air",
+        "marca": "Apple",
+        "precio": "Desde 999.99€",
+        "descripcion": "El MacBook Air de Apple es un portátil ligero y potente diseñado para usuarios que buscan rendimiento y elegancia. Con su diseño delgado y su sistema operativo optimizado, es perfecto para estudiantes, profesionales y usuarios domésticos.",
+        "caracteristicas": {
+          "diseño": {
+            "tipo_producto": "Portátil",
+            "color": "Plata",
+            "factor_forma": "Concha",
+            "posicionamiento_mercado": "Mainstream",
+            "marca_original": "Apple"
+          },
+          "exhibicion": {
+            "diagonal_pantalla": "13.3\"",
+            "resolucion_pantalla": "2560 x 1600 Pixeles",
+            "pantalla_tactil": false,
+            "tipo_hd": "Retina",
+            "tipo_pantalla": "IPS",
+            "relacion_aspecto": "16:10",
+            "pantalla_antirreflectante": true,
+            "brillo_pantalla": "400 cd / m²",
+            "espacio_color_rgb": "P3",
+            "gama_colores": "100%"
+          },
+          "procesador": {
+            "fabricante": "Apple",
+            "modelo": "M1",
+            "memoria_cache": "8 MB",
+            "hilos_ejecucion": 8,
+            "nucleos_procesador": 8,
+            "frecuencia": "3.2 GHz",
+            "frecuencia_max_turbo": "4.1 GHz",
+            "socket": "N/A",
+            "potencia_disenio_termico": "10 W"
+          },
+          "memoria": {
+            "tipo": "LPDDR4X",
+            "capacidad": "8 GB",
+            "velocidad": "4266 MHz",
+            "ranuras": "N/A",
+            "maxima_ampliable": "N/A"
+          },
+          "almacenamiento": {
+            "tipo": "SSD",
+            "capacidad": "256 GB"
+          },
+          "graficos": {
+            "integrados": true,
+            "modelo_discreto": "N/A"
+          },
+          "conexion": {
+            "wifi": "Wi-Fi 6",
+            "bluetooth": true
+          },
+          "peso_dimensiones": {
+            "peso": "Aprox. 1.29 kg",
+            "dimensiones": "Aprox. 304.1 x 212.4 x 16.1 mm"
+          }
+        }
+      },
+      {
+        "nombre": "Dell XPS 13",
+        "marca": "Dell",
+        "precio": "Desde 1199.99€",
+        "descripcion": "El Dell XPS 13 es un portátil premium que combina rendimiento, diseño y portabilidad. Con su pantalla InfinityEdge, procesadores potentes y construcción de alta calidad, es ideal para profesionales y usuarios exigentes.",
+        "caracteristicas": {
+          "diseño": {
+            "tipo_producto": "Portátil",
+            "color": "Plata",
+            "factor_forma": "Concha",
+            "posicionamiento_mercado": "Premium",
+            "marca_original": "Dell"
+          },
+          "exhibicion": {
+            "diagonal_pantalla": "13.4\"",
+            "resolucion_pantalla": "3840 x 2400 Pixeles",
+            "pantalla_tactil": false,
+            "tipo_hd": "4K UHD+",
+            "tipo_pantalla": "IPS",
+            "relacion_aspecto": "16:10",
+            "pantalla_antirreflectante": true,
+            "brillo_pantalla": "500 cd / m²",
+            "espacio_color_rgb": "sRGB",
+            "gama_colores": "100%"
+          },
+          "procesador": {
+            "fabricante": "Intel",
+            "modelo": "Core i7-1165G7",
+            "memoria_cache": "12 MB",
+            "hilos_ejecucion": 12,
+            "nucleos_procesador": 4,
+            "frecuencia": "2.8 GHz",
+            "frecuencia_max_turbo": "4.7 GHz",
+            "socket": "FCBGA1449",
+            "potencia_disenio_termico": "15 W"
+          },
+          "memoria": {
+            "tipo": "LPDDR4X",
+            "capacidad": "16 GB",
+            "velocidad": "4267 MHz",
+            "ranuras": "N/A",
+            "maxima_ampliable": "N/A"
+          },
+          "almacenamiento": {
+            "tipo": "SSD",
+            "capacidad": "512 GB"
+          },
+          "graficos": {
+            "integrados": true,
+            "modelo_discreto": "N/A"
+          },
+          "conexion": {
+            "wifi": "Wi-Fi 6",
+            "bluetooth": true
+          },
+          "peso_dimensiones": {
+            "peso": "Aprox. 1.2 kg",
+            "dimensiones": "Aprox. 296 x 199 x 14.8 mm"
+          }
+        }
+      },
+      {
+        "nombre": "Lenovo Yoga C940",
+        "marca": "Lenovo",
+        "precio": "Desde 1299.99€",
+        "descripcion": "El Lenovo Yoga C940 es un portátil convertible premium que ofrece versatilidad y rendimiento. Con su diseño elegante, pantalla táctil 4K y altavoces rotativos, es ideal para profesionales creativos y usuarios multimedia.",
+        "caracteristicas": {
+          "diseño": {
+            "tipo_producto": "Portátil convertible",
+            "color": "Gris",
+            "factor_forma": "Concha",
+            "posicionamiento_mercado": "Premium",
+            "marca_original": "Lenovo"
+          },
+          "exhibicion": {
+            "diagonal_pantalla": "14\"",
+            "resolucion_pantalla": "3840 x 2160 Pixeles",
+            "pantalla_tactil": true,
+            "tipo_hd": "4K UHD",
+            "tipo_pantalla": "IPS",
+            "relacion_aspecto": "16:9",
+            "pantalla_antirreflectante": true,
+            "brillo_pantalla": "500 cd / m²",
+            "espacio_color_rgb": "sRGB",
+            "gama_colores": "100%"
+          },
+          "procesador": {
+            "fabricante": "Intel",
+            "modelo": "Core i7-1065G7",
+            "memoria_cache": "8 MB",
+            "hilos_ejecucion": 8,
+            "nucleos_procesador": 4,
+            "frecuencia": "1.3 GHz",
+            "frecuencia_max_turbo": "3.9 GHz",
+            "socket": "FCBGA1526",
+            "potencia_disenio_termico": "15 W"
+          },
+          "memoria": {
+            "tipo": "LPDDR4X",
+            "capacidad": "16 GB",
+            "velocidad": "3733 MHz",
+            "ranuras": "N/A",
+            "maxima_ampliable": "N/A"
+          },
+          "almacenamiento": {
+            "tipo": "SSD",
+            "capacidad": "1 TB"
+          },
+          "graficos": {
+            "integrados": true,
+            "modelo_discreto": "N/A"
+          },
+          "conexion": {
+            "wifi": "Wi-Fi 6",
+            "bluetooth": true
+          },
+          "peso_dimensiones": {
+            "peso": "Aprox. 1.35 kg",
+            "dimensiones": "Aprox. 320.3 x 215.6 x 14.5 mm"
+          }
+        }
+      },
+      {
+        "nombre": "MSI Prestige 14",
+        "marca": "MSI",
+        "precio": "Desde 1199.99€",
+        "descripcion": "El MSI Prestige 14 es un portátil ligero y potente diseñado para profesionales creativos. Con su pantalla 4K, procesador Intel de última generación y tarjeta gráfica dedicada, es ideal para edición de vídeo, diseño gráfico y más.",
+        "caracteristicas": {
+          "diseño": {
+            "tipo_producto": "Portátil",
+            "color": "Blanco",
+            "factor_forma": "Concha",
+            "posicionamiento_mercado": "Premium",
+            "marca_original": "MSI"
+          },
+          "exhibicion": {
+            "diagonal_pantalla": "14\"",
+            "resolucion_pantalla": "3840 x 2160 Pixeles",
+            "pantalla_tactil": false,
+            "tipo_hd": "4K UHD",
+            "tipo_pantalla": "IPS",
+            "relacion_aspecto": "16:9",
+            "pantalla_antirreflectante": true,
+            "brillo_pantalla": "500 cd / m²",
+            "espacio_color_rgb": "sRGB",
+            "gama_colores": "100%"
+          },
+          "procesador": {
+            "fabricante": "Intel",
+            "modelo": "Core i7-1185G7",
+            "memoria_cache": "12 MB",
+            "hilos_ejecucion": 12,
+            "nucleos_procesador": 4,
+            "frecuencia": "3.0 GHz",
+            "frecuencia_max_turbo": "4.8 GHz",
+            "socket": "FCBGA1449",
+            "potencia_disenio_termico": "28 W"
+          },
+          "memoria": {
+            "tipo": "LPDDR4X",
+            "capacidad": "16 GB",
+            "velocidad": "4267 MHz",
+            "ranuras": "N/A",
+            "maxima_ampliable": "N/A"
+          },
+          "almacenamiento": {
+            "tipo": "SSD",
+            "capacidad": "1 TB"
+          },
+          "graficos": {
+            "integrados": false,
+            "modelo_discreto": "NVIDIA GeForce GTX 1650 Ti Max-Q"
+          },
+          "conexion": {
+            "wifi": "Wi-Fi 6",
+            "bluetooth": true
+          },
+          "peso_dimensiones": {
+            "peso": "Aprox. 1.29 kg",
+            "dimensiones": "Aprox. 319 x 215 x 16.9 mm"
+          }
+        }
+      },
+      {
+        "nombre": "Razer Blade 15",
+        "marca": "Razer",
+        "precio": "Desde 1599.99€",
+        "descripcion": "El Razer Blade 15 es un portátil gaming de alta gama diseñado para ofrecer un rendimiento excepcional en juegos y aplicaciones exigentes. Con su diseño elegante, potentes especificaciones y pantalla de alta frecuencia de actualización, es ideal para jugadores entusiastas y profesionales creativos.",
+        "caracteristicas": {
+          "diseño": {
+            "tipo_producto": "Portátil gaming",
+            "color": "Negro",
+            "factor_forma": "Concha",
+            "posicionamiento_mercado": "Gaming",
+            "marca_original": "Razer"
+          },
+          "exhibicion": {
+            "diagonal_pantalla": "15.6\"",
+            "resolucion_pantalla": "1920 x 1080 Pixeles",
+            "pantalla_tactil": false,
+            "tipo_hd": "Full HD",
+            "tipo_pantalla": "IPS",
+            "relacion_aspecto": "16:9",
+            "pantalla_antirreflectante": false,
+            "brillo_pantalla": "300 cd / m²",
+            "espacio_color_rgb": "sRGB",
+            "gama_colores": "100%"
+          },
+          "procesador": {
+            "fabricante": "Intel",
+            "modelo": "Core i7-11800H",
+            "memoria_cache": "24 MB",
+            "hilos_ejecucion": 16,
+            "nucleos_procesador": 8,
+            "frecuencia": "2.3 GHz",
+            "frecuencia_max_turbo": "4.6 GHz",
+            "socket": "FCBGA1449",
+            "potencia_disenio_termico": "45 W"
+          },
+          "memoria": {
+            "tipo": "DDR4",
+            "capacidad": "16 GB",
+            "velocidad": "3200 MHz",
+            "ranuras": "N/A",
+            "maxima_ampliable": "N/A"
+          },
+          "almacenamiento": {
+            "tipo": "SSD",
+            "capacidad": "512 GB"
+          },
+          "graficos": {
+            "integrados": false,
+            "modelo_discreto": "NVIDIA GeForce RTX 3060"
+          },
+          "conexion": {
+            "wifi": "Wi-Fi 6E",
+            "bluetooth": true
+          },
+          "peso_dimensiones": {
+            "peso": "Aprox. 2.1 kg",
+            "dimensiones": "Aprox. 355 x 235 x 19.9 mm"
+          }
+        }
+      },
+      {
+        "nombre": "Acer Predator Helios 300",
+        "marca": "Acer",
+        "precio": "Desde 1299.99€",
+        "descripcion": "El Acer Predator Helios 300 es un portátil gaming de alto rendimiento diseñado para satisfacer las necesidades de los jugadores más exigentes. Con su potente hardware, pantalla de alta frecuencia de actualización y sistema de refrigeración avanzado, es ideal para juegos AAA y aplicaciones de diseño.",
+        "caracteristicas": {
+          "diseño": {
+            "tipo_producto": "Portátil gaming",
+            "color": "Negro",
+            "factor_forma": "Concha",
+            "posicionamiento_mercado": "Gaming",
+            "marca_original": "Acer"
+          },
+          "exhibicion": {
+            "diagonal_pantalla": "15.6\"",
+            "resolucion_pantalla": "1920 x 1080 Pixeles",
+            "pantalla_tactil": false,
+            "tipo_hd": "Full HD",
+            "tipo_pantalla": "IPS",
+            "relacion_aspecto": "16:9",
+            "pantalla_antirreflectante": false,
+            "brillo_pantalla": "300 cd / m²",
+            "espacio_color_rgb": "sRGB",
+            "gama_colores": "100%"
+          },
+          "procesador": {
+            "fabricante": "Intel",
+            "modelo": "Core i7-11800H",
+            "memoria_cache": "24 MB",
+            "hilos_ejecucion": 16,
+            "nucleos_procesador": 8,
+            "frecuencia": "2.3 GHz",
+            "frecuencia_max_turbo": "4.6 GHz",
+            "socket": "FCBGA1449",
+            "potencia_disenio_termico": "45 W"
+          },
+          "memoria": {
+            "tipo": "DDR4",
+            "capacidad": "16 GB",
+            "velocidad": "3200 MHz",
+            "ranuras": "N/A",
+            "maxima_ampliable": "N/A"
+          },
+          "almacenamiento": {
+            "tipo": "SSD",
+            "capacidad": "1 TB"
+          },
+          "graficos": {
+            "integrados": false,
+            "modelo_discreto": "NVIDIA GeForce RTX 3060"
+          },
+          "conexion": {
+            "wifi": "Wi-Fi 6",
+            "bluetooth": true
+          },
+          "peso_dimensiones": {
+            "peso": "Aprox. 2.3 kg",
+            "dimensiones": "Aprox. 363 x 255 x 22.9 mm"
+          }
+        }
+      },
+      {
+        "nombre": "Gigabyte Aero 15",
+        "marca": "Gigabyte",
+        "precio": "Desde 1799.99€",
+        "descripcion": "El Gigabyte Aero 15 es un portátil gaming de alta gama diseñado para ofrecer un rendimiento excepcional en juegos y aplicaciones creativas. Con su pantalla OLED de alta resolución, hardware potente y diseño elegante, es ideal para gamers y profesionales multimedia.",
+        "caracteristicas": {
+          "diseño": {
+            "tipo_producto": "Portátil gaming",
+            "color": "Negro",
+            "factor_forma": "Concha",
+            "posicionamiento_mercado": "Gaming",
+            "marca_original": "Gigabyte"
+          },
+          "exhibicion": {
+            "diagonal_pantalla": "15.6\"",
+            "resolucion_pantalla": "3840 x 2160 Pixeles",
+            "pantalla_tactil": false,
+            "tipo_hd": "4K UHD",
+            "tipo_pantalla": "OLED",
+            "relacion_aspecto": "16:9",
+            "pantalla_antirreflectante": false,
+            "brillo_pantalla": "400 cd / m²",
+            "espacio_color_rgb": "sRGB",
+            "gama_colores": "100%"
+          },
+          "procesador": {
+            "fabricante": "Intel",
+            "modelo": "Core i7-10870H",
+            "memoria_cache": "12 MB",
+            "hilos_ejecucion": 16,
+            "nucleos_procesador": 8,
+            "frecuencia": "2.2 GHz",
+            "frecuencia_max_turbo": "5.0 GHz",
+            "socket": "FCBGA1449",
+            "potencia_disenio_termico": "45 W"
+          },
+          "memoria": {
+            "tipo": "DDR4",
+            "capacidad": "16 GB",
+            "velocidad": "2933 MHz",
+            "ranuras": "N/A",
+            "maxima_ampliable": "N/A"
+          },
+          "almacenamiento": {
+            "tipo": "SSD",
+            "capacidad": "512 GB"
+          },
+          "graficos": {
+            "integrados": false,
+            "modelo_discreto": "NVIDIA GeForce RTX 3060"
+          },
+          "conexion": {
+            "wifi": "Wi-Fi 6E",
+            "bluetooth": true
+          },
+          "peso_dimensiones": {
+            "peso": "Aprox. 2.0 kg",
+            "dimensiones": "Aprox. 356 x 250 x 19.9 mm"
+          }
+        }
+      }
+    ]
+  }
+
+ 
+     
+  

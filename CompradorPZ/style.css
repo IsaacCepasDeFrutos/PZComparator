@@ -1,0 +1,147 @@
+.caja_pr {
+  width: 100%;
+  text-align: center;
+}
+
+.caja_frame {
+  text-align: center;
+  width: 90%;
+  margin: 0 auto;
+  box-shadow: 0px 0px 10px 0px #005fad;
+  background-color: #005fad;
+  border-radius: 30px;
+}
+
+.caja_frame iframe {
+  background-color: white;
+  border-radius: 30px;
+  width: 83%;
+  height: 600px;
+  box-shadow: 0px 0px 10px 0px white;
+  margin: 20px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.contenedor {
+  top: 0;
+  position: sticky;
+  z-index: 1000; 
+}
+
+body {
+  font-family: 'Arial', sans-serif;
+  line-height: 1.6;
+  background-color: #add8e6;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+section.presentacion {
+  background-color: #fff;
+  margin: 40px auto;
+  padding: 30px;
+  max-width: 800px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+}
+
+section.presentacion h1 {
+  font-size: 2.5em;
+  margin-bottom: 20px;
+  color: #007BFF;
+}
+
+section.presentacion h2 {
+  font-size: 1.8em;
+  margin-top: 30px;
+  margin-bottom: 15px;
+  color: #0056b3;
+}
+
+section.presentacion p {
+  font-size: 1.2em;
+  margin-bottom: 20px;
+  line-height: 1.8;
+}
+
+section.presentacion ul {
+  list-style-type: disc;
+  padding-left: 40px;
+}
+
+section.presentacion li {
+  margin-bottom: 10px;
+  font-size: 1.2em;
+  line-height: 1.6;
+}
+
+section.presentacion a {
+  color: #007BFF;
+  text-decoration: none;
+}
+
+section.presentacion a:hover {
+  text-decoration: underline;
+}
+
+section.presentacion .btn {
+  display: inline-block;
+  padding: 2px 7px;
+  margin-top: 20px;
+  background-color: #007BFF;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+}
+
+section.presentacion .btn:hover {
+  background-color: #0056b3;
+}
+
+.carousel {
+  width: 80%;
+  margin: 0 auto;
+  margin-bottom: 60px;
+  
+  overflow: hidden;
+  position: relative;
+}
+
+.carousel-inner {
+  display: flex;
+  transition: transform 0.5s ease;
+}
+
+.carousel-item {
+  min-width: 100%;
+  box-sizing: border-box;
+}
+
+.carousel-item img {
+  width: 100%;
+  height: 400px;
+  object-fit: cover;
+  display: block;
+}
+
+.carousel-controls {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  transform: translateY(-50%);
+}
+
+.carousel-control-prev, .carousel-control-next {
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  padding: 10px;
+  cursor: pointer;
+}

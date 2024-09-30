@@ -1,0 +1,133 @@
+html {
+    background-color: #aed6f1;
+}
+
+.contenedorRegistrarse {
+    max-width: 400px;
+    margin: 0 auto;
+    margin-top: 4%;
+    background-color: #2b85cd;
+    color: #ffffff;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.5);
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+}
+
+.contenedorRegistrarse form {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.contenedorRegistrarse label {
+    margin-bottom: 5px;
+}
+
+.contenedorRegistrarse input[type="text"],
+.contenedorRegistrarse input[type="email"],
+.contenedorRegistrarse input[type="password"],
+.contenedorRegistrarse input[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    box-sizing: border-box;
+    font-size: medium;
+}
+
+.contenedorRegistrarse input[type="submit"] {
+    background-color: #ffffff;
+    color: #2b85cd;
+    border: none;
+    cursor: pointer;
+    font-size: medium;
+    margin-top: 6%;
+}
+
+/* Estilo para el hover del botón */
+.contenedorRegistrarse input[type="submit"]:hover {
+    background-color: #f0f0f0;
+}
+
+.contenedorRegistrarse a {
+    color: purple;
+}
+
+.contenedorRegistrarse img {
+    text-align: center;
+    max-width: 80%; /* La imagen se ajustará al ancho máximo del contenedor */
+    height: auto; /* Esto permite mantener la proporción original de la imagen */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.contenedorInicioDeSesion {
+    max-width: 400px;
+    margin: 0 auto;
+    background-color: #2b85cd;
+    color: #ffffff;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.5);
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+}
+
+.contenedorInicioDeSesion form {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.contenedorInicioDeSesion label {
+    margin-bottom: 5px;
+}
+
+.contenedorInicioDeSesion input[type="email"],
+.contenedorInicioDeSesion input[type="password"],
+.contenedorInicioDeSesion input[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    box-sizing: border-box;
+}
+
+.contenedorInicioDeSesion input[type="submit"] {
+    background-color: #ffffff;
+    color: #2b85cd;
+    border: none;
+    cursor: pointer;
+    font-size: medium;
+}
+
+/* Estilo para el hover del botón */
+.contenedorInicioDeSesion input[type="submit"]:hover {
+    background-color: #f0f0f0;
+}
+
+.contenedorInicioDeSesion a {
+    color: purple;
+}
