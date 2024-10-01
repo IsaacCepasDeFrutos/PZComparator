@@ -7,6 +7,7 @@ Project Download
 You can download the full version of the project, which includes a server configured in Ubuntu Server (OVA) with the following credentials:
 
   • Username: pzcomparator
+  
   • Password: 1234
   
 [Download from this link.](https://www.mediafire.com/file/xxnquy13hlzmpcb/CompradorPZ.zip/file)
@@ -16,11 +17,17 @@ Technologies Used
 For the development of PZComparator, we used a variety of technologies that work together to create an efficient and user-friendly application. Below is an explanation of each technology's role:
 
   • HTML: Defines the structure and backbone of the web pages.
+  
   • CSS: Provides the style and visual appearance of the user interface.
+  
   • JSON: Manages the data for the laptops and their specifications.
+  
   • JavaScript: Handles data processing and normalization, and generates comparative performance charts.
+  
   • SQL: Manages the user database and the feature to select favorite laptops.
+  
   • PHP: Acts as a bridge between technologies, handling server-side tasks and performing real-time verifications with the  database.
+
 
 Key Features
 
@@ -39,6 +46,7 @@ Descarga del Proyecto
 Puedes descargar la versión completa del proyecto, que incluye un servidor configurado en Ubuntu Server (OVA) con los siguientes credenciales:
 
   • Usuario: pzcomparator
+  
   • Contraseña: 1234
     
 [Descargar desde este enlace.](https://www.mediafire.com/file/xxnquy13hlzmpcb/CompradorPZ.zip/file)
@@ -47,11 +55,17 @@ Tecnologías Utilizadas
 Para el desarrollo de PZComparator, hemos utilizado una variedad de tecnologías que se complementan para crear una aplicación eficiente y fácil de usar. A continuación, te explicamos el rol de cada tecnología:
 
  • HTML: Define la estructura y el esqueleto de las páginas web.
+ 
  • CSS: Da estilo y apariencia visual a la interfaz de usuario.
+ 
  • JSON: Gestiona los datos de los ordenadores y sus características.
- • JavaScript: Se encarga del procesamiento y normalización de datos, además de generar las gráficas comparativas de        rendimiento.
+ 
+ • JavaScript: Se encarga del procesamiento y normalización de datos, además de generar las gráficas comparativas de rendimiento.
+ 
  • SQL: Maneja la base de datos de usuarios y la funcionalidad para seleccionar ordenadores favoritos.
+ 
  • PHP: Actúa como puente entre las tecnologías, gestionando las tareas en el servidor y realizando verificaciones en tiempo  real con la base de datos.
+
 
 Características Clave
 
