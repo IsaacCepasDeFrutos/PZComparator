@@ -3,7 +3,7 @@
 
 PZComparator is a web application designed to help people without advanced hardware knowledge easily compare laptops. The project was created with the goal of simplifying the process of choosing a laptop, which can often be a complex task. Since we couldn't find a platform that offered this kind of accessible service, we decided to develop our own solution.
 
-<u>Project Download</u>
+<strong>Project Download</strong>
 
 You can download the full version of the project, which includes a server configured in Ubuntu Server (OVA) with the following credentials:
 
