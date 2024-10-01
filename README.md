@@ -9,7 +9,7 @@ You can download the full version of the project, which includes a server config
   • Username: pzcomparator
   • Password: 1234
   
-Download from this link.
+[Download from this link.](https://www.mediafire.com/file/xxnquy13hlzmpcb/CompradorPZ.zip/file)
 
 Technologies Used
 
@@ -41,7 +41,7 @@ Puedes descargar la versión completa del proyecto, que incluye un servidor conf
   • Usuario: pzcomparator
   • Contraseña: 1234
     
-Descargar desde este enlace.
+[Descargar desde este enlace.](https://www.mediafire.com/file/xxnquy13hlzmpcb/CompradorPZ.zip/file)
 
 Tecnologías Utilizadas
 Para el desarrollo de PZComparator, hemos utilizado una variedad de tecnologías que se complementan para crear una aplicación eficiente y fácil de usar. A continuación, te explicamos el rol de cada tecnología:
