@@ -13,7 +13,7 @@ You can download the full version of the project, which includes a server config
   
 [Download from this link.](https://www.mediafire.com/file/xxnquy13hlzmpcb/CompradorPZ.zip/file)
 
-<u>Technologies Used</u>
+<strong>Technologies Used</strong>
 
 For the development of PZComparator, we used a variety of technologies that work together to create an efficient and user-friendly application. Below is an explanation of each technology's role:
 
@@ -30,10 +30,12 @@ For the development of PZComparator, we used a variety of technologies that work
   • PHP: Acts as a bridge between technologies, handling server-side tasks and performing real-time verifications with the  database.
 
 
-<u>Key Features</u>
+<strong>Key Features</strong>
 
   • Easy laptop comparison: Ideal for users with no advanced technical knowledge.
+  
   • Intuitive interface: Features clear and easy-to-understand comparison charts.
+  
   • Favorites management: Users can save their preferred laptops for future reference.
 
   Thank you for reading!
@@ -42,7 +44,7 @@ For the development of PZComparator, we used a variety of technologies that work
 
 PZComparator es una aplicación web diseñada para ayudar a personas sin conocimientos avanzados de hardware a comparar ordenadores portátiles de manera sencilla. El proyecto nació con la intención de simplificar la elección de un ordenador, una tarea que puede resultar complicada. No encontramos una plataforma que ofreciera este tipo de servicio de forma accesible, por lo que decidimos crear nuestra propia solución.
 
-<u>Descarga del Proyecto</u>
+<strong>Descarga del Proyecto</strong>
 
 Puedes descargar la versión completa del proyecto, que incluye un servidor configurado en Ubuntu Server (OVA) con los siguientes credenciales:
 
@@ -52,7 +54,7 @@ Puedes descargar la versión completa del proyecto, que incluye un servidor conf
     
 [Descargar desde este enlace.](https://www.mediafire.com/file/xxnquy13hlzmpcb/CompradorPZ.zip/file)
 
-<u>Tecnologías Utilizadas</u>
+<strong>Tecnologías Utilizadas</strong>
 Para el desarrollo de PZComparator, hemos utilizado una variedad de tecnologías que se complementan para crear una aplicación eficiente y fácil de usar. A continuación, te explicamos el rol de cada tecnología:
 
  • HTML: Define la estructura y el esqueleto de las páginas web.
@@ -68,10 +70,12 @@ Para el desarrollo de PZComparator, hemos utilizado una variedad de tecnologías
  • PHP: Actúa como puente entre las tecnologías, gestionando las tareas en el servidor y realizando verificaciones en tiempo  real con la base de datos.
 
 
-<u>Características Clave</u>
+<strong>Características Clave</strong>
 
 • Comparación fácil de portátiles: Ideal para usuarios que no tienen conocimientos técnicos avanzados.
+
 • Interfaz intuitiva: Con gráficos comparativos claros y fáciles de interpretar.
+
 • Gestión de favoritos: Los usuarios pueden guardar sus ordenadores preferidos para futuras consultas.
 
 Gracias por leerme!
