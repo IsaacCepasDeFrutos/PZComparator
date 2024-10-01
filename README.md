@@ -55,6 +55,7 @@ Puedes descargar la versión completa del proyecto, que incluye un servidor conf
 [Descargar desde este enlace.](https://www.mediafire.com/file/xxnquy13hlzmpcb/CompradorPZ.zip/file)
 
 <strong>Tecnologías Utilizadas</strong>
+
 Para el desarrollo de PZComparator, hemos utilizado una variedad de tecnologías que se complementan para crear una aplicación eficiente y fácil de usar. A continuación, te explicamos el rol de cada tecnología:
 
  • HTML: Define la estructura y el esqueleto de las páginas web.
